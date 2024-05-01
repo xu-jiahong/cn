@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是目前就读于 中国科学技术大学 管理学院 的博士研究生。在管理科学，特别是信息系统与信息管理领域，我已经发表 10+ 篇学术论文（含一作/通讯/合作等），并获得谷歌学术 <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我是目前就读于 中国科学技术大学 管理学院 的博士研究生。在管理科学，特别是信息系统与信息管理领域，我已经发表 10+ 篇学术论文（含一作/通讯/合作等），并获得谷歌学术 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我当前的研究领域与兴趣包括：
 * 元宇宙与拓展现实技术(AR/VR/MR)
@@ -61,10 +61,9 @@ redirect_from:
 * [CJ1]	**徐嘉泓**, 董振宁, 黄穆平. 应急物流中浮空运输的应用和相对优势[J]. 物流技术, 2015, 34(10): 11-14. (北大核心) [[DOI]](https://doi.org/10.3969/j.issn.1005-152X.2015.10.004)
   * 荣获“岭南物流与供应链理论创新奖”三等奖（广东省物流与供应链学会）
 
-
+<span class='anchor' id='-xshy'></span>
 ### 会议论文 
 ---
-<span class='anchor' id='-xshy'></span>
 * [C5]	**Xu, J. H.**, Zhou, J. M., Liu, H. F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
   * 荣获 **ICIS 2023最佳论文提名奖**  [[获奖公告]](https://aisel.aisnet.org/icis2023/awards.html)
   * 同时是ICIS 2023 “数字与移动商务”领域的最佳领域论文之一
