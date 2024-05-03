@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是目前就读于 中国科学技术大学 管理学院 的博士研究生。在管理科学，特别是信息系统与信息管理领域，我已经发表 10+ 篇学术论文（含一作/通讯/合作等），并获得谷歌学术 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我是就读于中国科学技术大学管理学院的博士研究生；目前在刘和福教授组建的智能运营管理实验室[[IOM]](http://institution.ustc.edu.cn/iom/)开展研究工作。在管理科学，特别是信息系统与信息管理领域，我已经发表 10+ 篇学术论文（含一作/通讯/合作等），并获得谷歌学术 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。这些研究成果发表在International Journal of Information Management, Journal of Computer Information Systems, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等信息系统领域国际主流会议。曾获国际信息系统协会(AIS)旗舰会议ICIS 2023"最佳论文提名奖"，教育部学位中心“2023年度十大案例研究典型成果”，以及“省优秀研究生”。
 
 我当前的研究领域与兴趣包括：
 * 元宇宙与拓展现实技术(AR/VR/MR)
@@ -26,18 +26,6 @@ redirect_from:
 * 可持续商业模式
 
 
-<span class='anchor' id='-xl'></span>
-
-# 🎓 教育经历
-* 博士, 管理科学与工程, 中国科学技术大学, 2025 (预期毕业)
-* 硕士, 管理科学与工程, 广东工业大学, 2021
-* 本科, 物流管理, 广东工业大学, 2018
-
-# 🏛️ 访学交换
-* 博士, CSC联合培养, 南洋理工大学, 2024
-* 硕士, 暑期访学, 香港大学, 2018
-* 本科, 暑期访学, 加州大学伯克利分校, 2017
- 
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文成果
@@ -53,13 +41,14 @@ redirect_from:
 
 ### 中文期刊
 ---
-* [CJ3]	杜松华, **徐嘉泓***, 张德鹏, 杨晓光. 游戏化如何驱动电商用户绿色消费行为——基于蚂蚁森林的网络民族志研究[J]. 南开管理评论, 2022, 25(02): 191-204.  (CSSCI；国家自然科学基金委重要期刊；FMS管理科学高质量期刊T1级；中国人文社会科学AMI综合评价A类权威期刊)  [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[新闻报道]](http://www.fter50.org.cn/research/1424.html)
-  * 荣获"**2023年度中国十大“案例研究典型成果**" (教育部学位中心、中国专业学位案例中心) [[获奖公告]](https://case.cdgdc.edu.cn//index/sfalyj.do)
-  * 荣获CNKI**前1%高被引/高下载/高PCSI论文** 且为 **前0.1%高下载论文** (下载量13000+)
-* [CJ2]	杜松华, **徐嘉泓***, 罗子婵, 李东霞, 于秀丽. 金字塔底层可持续商业模式构建分析——基于粤东北地区的多案例研究[J]. 管理评论, 2018, 30(09): 292-304. (CSSCI；国家自然科学基金委重要期刊；FMS管理科学高质量期刊T1级)[[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
-  * 荣获学术年会论文二等奖（广东省系统工程学会）
+* [CJ3]	杜松华, **徐嘉泓***, 张德鹏, 杨晓光. 游戏化如何驱动电商用户绿色消费行为——基于蚂蚁森林的网络民族志研究[J]. 南开管理评论, 2022, 25(02): 191-204.  (CSSCI；FMS管理科学高质量期刊T1级；中国人文社科AMI-A类权威)  [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[新闻报道]](http://www.fter50.org.cn/research/1424.html) 
+  * 荣获"**2023年度中国十大“案例研究典型成果**" (教育部学位中心、中国专业学位案例中心) [[获奖公告]](https://case.cdgdc.edu.cn//index/sfalyj.do) [[新闻报道]](https://mp.weixin.qq.com/s?__biz=MzAxOTc4NDczNA==&mid=2653665709&idx=1&sn=fd314c26b67116769ed2cdabc7d85d56&chksm=801eacdcb76925caef4debd3154b7f22987156cca7de73d026589205d706fdf99977c7e4673c&scene=27) 
+  * 荣获CNKI**前1%高被引/高下载/高PCSI论文** 且为 **前0.1%高下载论文** (下载量13000+) [[获奖公告]](http://institution.ustc.edu.cn/iom/zh_CN/article/688833/content/3579.htm)
+* [CJ2]	杜松华, **徐嘉泓***, 罗子婵, 李东霞, 于秀丽. 金字塔底层可持续商业模式构建分析——基于粤东北地区的多案例研究[J]. 管理评论, 2018, 30(09): 292-304. (CSSCI；FMS管理科学高质量期刊T1级)[[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
+  * 荣获2018年学术年会论文二等奖（广东省系统工程学会）
+  * 荣获2015年全国优秀实践团队（团中央、全国学联）
 * [CJ1]	**徐嘉泓**, 董振宁, 黄穆平. 应急物流中浮空运输的应用和相对优势[J]. 物流技术, 2015, 34(10): 11-14. (北大核心) [[DOI]](https://doi.org/10.3969/j.issn.1005-152X.2015.10.004)
-  * 荣获“岭南物流与供应链理论创新奖”三等奖（广东省物流与供应链学会）
+  * 荣获2015年“岭南物流与供应链理论创新奖”三等奖（广东省物流与供应链学会）
 
 <span class='anchor' id='-xshy'></span>
 ### 会议论文 
@@ -73,6 +62,18 @@ redirect_from:
 * [C1]	Zhan, B., Du, H. S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[链接]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
 
 
+<span class='anchor' id='-xl'></span>
+
+# 🎓 教育经历
+* 博士, 管理学, 中国科学技术大学, 2025 (预期毕业)
+* 硕士, 管理学, 广东工业大学, 2021
+* 本科, 管理学, 广东工业大学, 2018
+
+# 🏛️ 访学交换
+* 博士, CSC联合培养, 南洋理工大学, 2024
+* 硕士, 暑期访学, 香港大学, 2018
+* 本科, 暑期访学, 加州大学伯克利分校, 2017
+
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
@@ -81,7 +82,7 @@ redirect_from:
 ---
 * 2023年获第44届国际信息系统年会(ICIS 2023)最佳论文提名奖（国际信息系统学会）
 * 2023年获2023年中国十大“案例研究典型成果”（教育部学位中心、中国专业学位案例中心）
-* 2023年获CNKI“三高论文（高被引论文、高下载论文、高PCSI论文）”
+* 2023年获CNKI“高影响力论文（高被引论文、高下载论文、高PCSI论文）”
 * 2018年获广东省系统工程学会学术年会论文二等奖（广东省系统工程学会）
 * 2015年获“岭南物流与供应链理论创新奖”三等奖（广东省物流与供应链学会）
 
