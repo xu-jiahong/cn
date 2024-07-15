@@ -35,7 +35,7 @@ redirect_from:
 ---
 * [J4]	**Xu, J. H**., Du, H. S.,* Shen, K. N., and Zhang, D. P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," International Journal of Information Management (64). (SSCI Q1, ABS 2, FMS B, ABDC A+) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * 获**前1%高被引论文** (科睿唯安Web of Science ESI数据库)
-* [J3]	Du, H. S., **Xu, J. H.***, Tang, H., and Jiang, R. X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," Journal of Computer Information Systems (62:1), pp. 174-185. (SCI/SSCI Q2, ABS 2，ABDC A，中国计算机学会CCF推荐期刊) [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
+* [J3]	Du, H. S., **Xu, J. H.***, Tang, H., and Jiang, R. X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," Journal of Computer Information Systems (62:1), pp. 174-185. (SCI/SSCI Q2, ABS 2，ABDC A，CCF推荐期刊) [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
 * [J2]	Du, H. S., **Xu, J. H.***, Li, Z. Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," Journal of Cleaner Production (281). (SCI/SSCI Q1, ABS 2，ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
 * [J1]	Du, H. S., Zhan, B. Q.*, **Xu, J. H.**, and Yang, X. G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," Journal of Cleaner Production (239). (SCI/SSCI Q1, ABS 2，ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
 
@@ -43,13 +43,13 @@ redirect_from:
 ### 中文期刊
 ---
 * [CJ3]	杜松华, **徐嘉泓***, 张德鹏, 杨晓光. 游戏化如何驱动电商用户绿色消费行为——基于蚂蚁森林的网络民族志研究[J]. 南开管理评论, 2022, 25(02): 191-204.  (CSSCI；FMS管理科学高质量期刊T1级；中国人文社科AMI-A类权威)  [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[新闻报道]](http://www.fter50.org.cn/research/1424.html) 
-  * 获"**2023年度中国十大“案例研究典型成果**" (教育部学位中心,中国专业学位案例中心) [[获奖公告]](https://case.cdgdc.edu.cn//index/sfalyj.do) [[新闻报道]](https://mp.weixin.qq.com/s?__biz=MzAxOTc4NDczNA==&mid=2653665709&idx=1&sn=fd314c26b67116769ed2cdabc7d85d56&chksm=801eacdcb76925caef4debd3154b7f22987156cca7de73d026589205d706fdf99977c7e4673c&scene=27) 
-  * 获CNKI**前1%高被引/高下载/高PCSI论文** 且为 **前0.1%高下载论文** (下载量13000+) [[获奖公告]](http://institution.ustc.edu.cn/iom/zh_CN/article/688833/content/3579.htm)
+  * 获“**2023年度中国十大“案例研究典型成果**” (教育部学位中心/中国专业学位案例中心) [[获奖公告]](https://case.cdgdc.edu.cn//index/sfalyj.do) [[新闻报道]](https://mp.weixin.qq.com/s?__biz=MzAxOTc4NDczNA==&mid=2653665709&idx=1&sn=fd314c26b67116769ed2cdabc7d85d56&chksm=801eacdcb76925caef4debd3154b7f22987156cca7de73d026589205d706fdf99977c7e4673c&scene=27) 
+  * 获CNKI**前1%高被引/高下载/高PCSI论文** 且为 **前0.1%高下载论文** (下载量13000+) [[获奖报道]](http://institution.ustc.edu.cn/iom/zh_CN/article/688833/content/3579.htm)
 * [CJ2]	杜松华, **徐嘉泓***, 罗子婵, 李东霞, 于秀丽. 金字塔底层可持续商业模式构建分析——基于粤东北地区的多案例研究[J]. 管理评论, 2018, 30(09): 292-304. (CSSCI；FMS管理科学高质量期刊T1级)[[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
   * 获2018年学术年会论文二等奖（广东省系统工程学会）
-  * 获2015年全国优秀实践团队（团中央、全国学联）
+  * 获2015年全国优秀实践团队（团中央、全国学联、中青报）
 * [CJ1]	**徐嘉泓**, 董振宁, 黄穆平. 应急物流中浮空运输的应用和相对优势[J]. 物流技术, 2015, 34(10): 11-14. (北大核心) [[DOI]](https://doi.org/10.3969/j.issn.1005-152X.2015.10.004)
-  * 获2015年“岭南物流与供应链理论创新奖”三等奖（广东省物流与供应链学会）
+  * 获2015年“岭南物流与供应链理论创新奖”三等奖（广东省物流与供应链学会）[[获奖报道]](https://glxy.gdut.edu.cn/info/1234/8229.htm)
 
 <span class='anchor' id='-xshy'></span>
 ### 会议论文 
