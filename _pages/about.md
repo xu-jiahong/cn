@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是中国科学技术大学管理学院的博士研究生；目前在刘和福教授组建的智能运营管理实验室[[IOM]](http://institution.ustc.edu.cn/iom/)开展研究工作。在管理科学，特别是信息系统与信息管理领域，我已经发表 10+ 篇国内外学术论文（含一作/通讯/合作等），并获得谷歌学术 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。这些研究成果发表在_Internet Research, International Journal of Information Management, Journal of Computer Information Systems_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等信息系统领域主流国际会议。曾获国际信息系统协会(AIS)旗舰会议ICIS 2023"最佳论文提名奖"，教育部学位中心“2023年度十大案例研究典型成果”，以及“省优秀研究生”。
+我是中国科学技术大学管理学院的博士研究生；目前在刘和福教授组建的智能运营管理实验室[[IOM]](http://institution.ustc.edu.cn/iom/)开展研究工作。在管理科学，特别是信息系统与信息管理领域，我已经发表 10+ 篇国内外学术论文（含一作/通讯/合作等），并获得谷歌学术 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。这些研究成果发表在 _Internet Research, International Journal of Information Management, Journal of Computer Information Systems_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等信息系统领域主流国际会议。曾获国际信息系统协会(AIS)旗舰会议ICIS 2023"最佳论文提名奖"，教育部学位中心“2023年度十大案例研究典型成果”，以及“省优秀研究生”。
 
 我当前的研究领域与兴趣包括：
 * 元宇宙与拓展现实技术(AR/VR)
@@ -33,12 +33,12 @@ redirect_from:
 
 ### 国际期刊
 ---
-* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience”. _Internet Research_ (accepted; SCI/SSCI Q1, ABS 3, FMS B, ABDC A) 
+* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_ (accepted; SCI/SSCI Q1, ABS 3, FMS B, ABDC A) 
 * [J4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). (SSCI Q1, ABS 2, FMS B, ABDC A+) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * 获**前1%高被引论文** (科睿唯安Web of Science ESI数据库)
 * [J3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ (62:1), pp. 174-185. (SCI/SSCI Q2, ABS 2，ABDC A，CCF推荐期刊) [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
-* [J2]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_ (281). (SCI/SSCI Q1, ABS 2，ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
-* [J1]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," _Journal of Cleaner Production_ (239). (SCI/SSCI Q1, ABS 2，ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
+* [J2]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_ (281). (SCI/SSCI Q1, ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
+* [J1]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," _Journal of Cleaner Production_ (239). (SCI/SSCI Q1, ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
 
 
 ### 中文期刊
@@ -55,8 +55,8 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 ### 会议论文 
 ---
-* [C7] Xu, J.H., Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (HCI/MIS Workshop 2024).
-* [C6] Xu, J.H., Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (HCI/MIS Workshop 2024).
+* [C7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (HCI/MIS Workshop 2024).
+* [C6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (HCI/MIS Workshop 2024).
 * [C5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
   * 获 **ICIS 2023最佳论文提名奖** (数字与移动商务领域) [[获奖公告]](https://aisel.aisnet.org/icis2023/awards.html)
 * [C4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
