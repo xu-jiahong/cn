@@ -33,7 +33,7 @@ redirect_from:
 
 ### 国际期刊
 ---
-* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_ (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
+* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
 * [J4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). (SSCI Q1, ABS 2, FMS B, ABDC A+) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * 获**前1%高被引论文** (科睿唯安Web of Science ESI数据库)
 * [J3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ (62:1), pp. 174-185. (SCI/SSCI Q2, ABS 2，ABDC A，CCF推荐期刊) [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
@@ -92,9 +92,10 @@ redirect_from:
 
 ### 个人荣誉
 ---
+* 2024年获博士研究生国家奖学金（教育部）
 * 2021年获广东省优秀研究生（广东省教育厅）
-* 2021年获广东省无偿献血奉献奖（广东省卫生健康委员会）
-* 2019年获研究生国家奖学金（教育部）
+* 2021年获广东省无偿献血奉献奖（广东省卫健委）
+* 2019年获硕士研究生国家奖学金（教育部）
 * 2017年获国家奖学金（教育部）
 * 2016年获国家奖学金（教育部）
 * 2015年获全国优秀实践团队（团中央、全国学联）
