@@ -115,6 +115,7 @@ redirect_from:
   * Journal of Cleaner Production
 
 * 会议同行评议审稿人
+  * Academy of Management Annual Meeting (AOM)
   * International Conference on Information Systems (ICIS)
   * Pacific Asia Conference on Information Systems (PACIS)
   * Americas Conference on Information Systems (AMCIS)
