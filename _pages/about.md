@@ -22,7 +22,6 @@ redirect_from:
 我当前的研究领域与兴趣包括：
 * 元宇宙与拓展现实技术(AR/VR)
 * 数字化商务与平台经济
-* 多模态数据与商务智能
 * 游戏化信息系统
 * 可持续商业模式
 
@@ -33,42 +32,42 @@ redirect_from:
 
 ### 国际期刊
 ---
-* [J5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
-* [J4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). (SSCI Q1, ABS 2, FMS B, ABDC A+) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
+* [5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
+* [4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). (SSCI Q1, ABS 2, FMS B, ABDC A+) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * 获**前1%高被引论文** (科睿唯安Web of Science ESI数据库)
-* [J3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ (62:1), pp. 174-185. (SCI/SSCI Q2, ABS 2，ABDC A，CCF推荐期刊) [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
-* [J2]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_ (281). (SCI/SSCI Q1, ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
-* [J1]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," _Journal of Cleaner Production_ (239). (SCI/SSCI Q1, ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
+* [3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ (62:1), pp. 174-185. (SCI/SSCI Q2, ABS 2，ABDC A，CCF推荐期刊) [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
+* [2]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_ (281). (SCI/SSCI Q1, ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
+* [1]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," _Journal of Cleaner Production_ (239). (SCI/SSCI Q1, ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
 
 
 ### 中文期刊
 ---
-* [CJ3]	杜松华, **徐嘉泓***, 张德鹏, 杨晓光. 游戏化如何驱动电商用户绿色消费行为——基于蚂蚁森林的网络民族志研究[J]. 南开管理评论, 2022, 25(02): 191-204.  (CSSCI；FMS管理科学高质量期刊T1级；中国人文社科AMI-A类权威)  [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[新闻报道]](http://www.fter50.org.cn/research/1424.html) 
-  * 获“**2023年度中国十大“案例研究典型成果**” (教育部学位中心/中国专业学位案例中心) [[获奖公告]](https://case.cdgdc.edu.cn//index/sfalyj.do) [[新闻报道]](https://mp.weixin.qq.com/s?__biz=MzAxOTc4NDczNA==&mid=2653665709&idx=1&sn=fd314c26b67116769ed2cdabc7d85d56&chksm=801eacdcb76925caef4debd3154b7f22987156cca7de73d026589205d706fdf99977c7e4673c&scene=27) 
+* [3]	杜松华, **徐嘉泓***, 张德鹏, 杨晓光. 游戏化如何驱动电商用户绿色消费行为——基于蚂蚁森林的网络民族志研究[J]. 南开管理评论, 2022, 25(02): 191-204.  (CSSCI；FMS管理科学高质量期刊T1级；中国人文社科AMI-A类权威)  [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[新闻报道]](http://www.fter50.org.cn/research/1424.html) 
+  * 获“**2023年度十大“案例研究典型成果**” (教育部学位中心/中国专业学位案例中心) [[获奖公告]](https://case.cdgdc.edu.cn//index/sfalyj.do) [[新闻报道]](https://mp.weixin.qq.com/s?__biz=MzAxOTc4NDczNA==&mid=2653665709&idx=1&sn=fd314c26b67116769ed2cdabc7d85d56&chksm=801eacdcb76925caef4debd3154b7f22987156cca7de73d026589205d706fdf99977c7e4673c&scene=27) 
   * 获CNKI**前1%高被引/高下载/高PCSI论文** 且为 **前0.1%高下载论文** (下载量13000+) [[获奖报道]](http://institution.ustc.edu.cn/iom/zh_CN/article/688833/content/3579.htm)
-* [CJ2]	杜松华, **徐嘉泓***, 罗子婵, 李东霞, 于秀丽. 金字塔底层可持续商业模式构建分析——基于粤东北地区的多案例研究[J]. 管理评论, 2018, 30(09): 292-304. (CSSCI；FMS管理科学高质量期刊T1级)[[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
+* [2]	杜松华, **徐嘉泓***, 罗子婵, 李东霞, 于秀丽. 金字塔底层可持续商业模式构建分析——基于粤东北地区的多案例研究[J]. 管理评论, 2018, 30(09): 292-304. (CSSCI；FMS管理科学高质量期刊T1级)[[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
   * 获2018年学术年会论文二等奖（广东省系统工程学会）
   * 获2015年全国优秀实践团队（团中央、全国学联、中青报）
-* [CJ1]	**徐嘉泓**, 董振宁, 黄穆平. 应急物流中浮空运输的应用和相对优势[J]. 物流技术, 2015, 34(10): 11-14. (北大核心) [[DOI]](https://doi.org/10.3969/j.issn.1005-152X.2015.10.004)
+* [1]	**徐嘉泓**, 董振宁, 黄穆平. 应急物流中浮空运输的应用和相对优势[J]. 物流技术, 2015, 34(10): 11-14. (北大核心) [[DOI]](https://doi.org/10.3969/j.issn.1005-152X.2015.10.004)
   * 获2015年“岭南物流与供应链理论创新奖”三等奖（广东省物流与供应链学会）[[获奖报道]](https://glxy.gdut.edu.cn/info/1234/8229.htm)
 
 <span class='anchor' id='-xshy'></span>
 ### 会议论文 
 ---
-* [C7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (HCI/MIS Workshop 2024).
-* [C6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (HCI/MIS Workshop 2024).
-* [C5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
+* [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (SIGHCI 2024). [[链接]](https://aisel.aisnet.org/sighci2024/2)
+* [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (SIGHCI 2024). [[链接]](https://aisel.aisnet.org/sighci2024/7) 
+* [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
   * 获 **ICIS 2023最佳论文提名奖** (数字与移动商务领域) [[获奖公告]](https://aisel.aisnet.org/icis2023/awards.html)
-* [C4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
-* [C3]	Lv, J.Y., **Xu, J.H.**, and Du, H.S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of the 25th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2021/187/)
-* [C2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of the 24th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2020/233/)
-* [C1]	Zhan, B., Du, H.S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[链接]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
+* [4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
+* [3]	Lv, J.Y., **Xu, J.H.**, and Du, H.S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of the 25th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2021/187/)
+* [2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of the 24th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2020/233/)
+* [1]	Zhan, B., Du, H.S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[链接]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 教育经历
-* 博士, 管理学, 中国科学技术大学, 2025 (预期毕业)
+* 博士, 管理学, 中国科学技术大学, 2025 (预期夏季毕业)
 * 硕士, 管理学, 广东工业大学, 2021
 * 本科, 管理学, 广东工业大学, 2018
 
@@ -85,7 +84,7 @@ redirect_from:
 ---
 * 2024年获第23届Pre-ICIS人机交互研讨会最佳审稿人（国际信息系统学会人机交互分会SIGHCI）
 * 2023年获第44届国际信息系统年会(ICIS 2023)最佳论文提名奖（国际信息系统学会AIS）
-* 2023年获2023年中国十大“案例研究典型成果”（教育部学位中心、中国专业学位案例中心）
+* 2023年获2023年度十大“案例研究典型成果”（教育部学位中心、中国专业学位案例中心）
 * 2023年获CNKI“高影响力论文（高被引论文、高下载论文、高PCSI论文）”
 * 2018年获广东省系统工程学会学术年会论文二等奖（广东省系统工程学会）
 * 2015年获“岭南物流与供应链理论创新奖”三等奖（广东省物流与供应链学会）
@@ -113,6 +112,9 @@ redirect_from:
   * International Journal of Human-Computer Interaction
   * Sustainability Accounting Management and Policy Journal
   * Journal of Cleaner Production
+  * Journal of Systems and Information Technology
+  * Journal of Information and Knowledge Management
+
 
 * 会议同行评议审稿人
   * Academy of Management Annual Meeting (AOM)
