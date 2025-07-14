@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是中国科学技术大学管理学院的博士研究生；目前在刘和福教授组建的智能运营管理实验室[[IOM]](http://institution.ustc.edu.cn/iom/)开展研究工作。在管理科学，特别是信息系统与信息管理领域，我已经发表 10+ 篇国内外学术论文（含一作/通讯/合作等），并获得谷歌学术 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。这些研究成果发表在 _Internet Research, International Journal of Information Management, Journal of Computer Information Systems_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等信息系统领域主流国际会议。曾获国际信息系统协会(AIS)旗舰会议ICIS 2023"最佳论文提名奖"，教育部学位中心“2023年度十大案例研究典型成果”，以及“省优秀研究生”。
+我在2025年于中国科学技术大学获得博士学位。在管理科学，特别是信息系统与电子商务领域，我已经发表 10+ 篇国内外学术论文（含一作/通讯/合作等），其中包括ESI高被引论文1篇，知网高被引论文1篇，并获得谷歌学术 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。这些研究成果发表在 _Internet Research, International Journal of Information Management, Journal of Computer Information Systems_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等信息系统领域主流国际会议。曾获国际信息系统协会(AIS)旗舰会议ICIS 2023“最佳论文提名奖”，SIGHCI 2024“最佳审稿人奖”，以及教育部“2023年度十大案例研究典型成果”等学术奖励。
 
 我当前的研究领域与兴趣包括：
-* 元宇宙与拓展现实技术(AR/VR)
-* 数字化商务与平台经济
+* 数字经济与平台运营
+* 数字营销与用户行为
+* 元宇宙与拓展现实(AR/VR)
 * 游戏化信息系统
 * 可持续商业模式
 
@@ -30,21 +31,17 @@ redirect_from:
 
 # 📝 论文成果
 
-### 国际期刊
+### 期刊论文
 ---
-* [5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
-* [4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). (SSCI Q1, ABS 2, FMS B, ABDC A+) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
-  * 获**前1%高被引论文** (科睿唯安Web of Science ESI数据库)
-* [3]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ (62:1), pp. 174-185. (SCI/SSCI Q2, ABS 2，ABDC A，CCF推荐期刊) [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
-* [2]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_ (281). (SCI/SSCI Q1, ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
-* [1]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," _Journal of Cleaner Production_ (239). (SCI/SSCI Q1, ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
-
-
-### 中文期刊
----
-* [3]	杜松华, **徐嘉泓***, 张德鹏, 杨晓光. 游戏化如何驱动电商用户绿色消费行为——基于蚂蚁森林的网络民族志研究[J]. 南开管理评论, 2022, 25(02): 191-204.  (CSSCI；FMS管理科学高质量期刊T1级；中国人文社科AMI-A类权威)  [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[新闻报道]](http://www.fter50.org.cn/research/1424.html) 
+* [8] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
+* [7]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). (SSCI Q1, ABS 2, FMS B, ABDC A+) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
+  * 自2023年起连续3年入选获**前1%高被引论文** (科睿唯安Web of Science ESI数据库)
+* [6]	杜松华, **徐嘉泓***, 张德鹏, 杨晓光. 游戏化如何驱动电商用户绿色消费行为——基于蚂蚁森林的网络民族志研究[J]. 南开管理评论, 2022, 25(02): 191-204.  (CSSCI；FMS管理科学高质量期刊T1级；中国人文社科AMI-A类权威)  [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[新闻报道]](http://www.fter50.org.cn/research/1424.html) 
   * 获“**2023年度十大“案例研究典型成果**” (教育部学位中心/中国专业学位案例中心) [[获奖公告]](https://case.cdgdc.edu.cn//index/sfalyj.do) [[新闻报道]](https://mp.weixin.qq.com/s?__biz=MzAxOTc4NDczNA==&mid=2653665709&idx=1&sn=fd314c26b67116769ed2cdabc7d85d56&chksm=801eacdcb76925caef4debd3154b7f22987156cca7de73d026589205d706fdf99977c7e4673c&scene=27) 
-  * 获CNKI**前1%高被引/高下载/高PCSI论文** 且为 **前0.1%高下载论文** (下载量13000+) [[获奖报道]](http://institution.ustc.edu.cn/iom/zh_CN/article/688833/content/3579.htm)
+  * 获CNKI**前1%高被引/高下载/高PCSI论文** 且为 **前0.1%高下载论文** (下载量15000+) [[获奖报道]](http://institution.ustc.edu.cn/iom/zh_CN/article/688833/content/3579.htm)
+* [5]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_ (62:1), pp. 174-185. (SCI/SSCI Q2, ABS 2，ABDC A，CCF推荐期刊) [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
+* [4]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_ (281). (SCI/SSCI Q1, ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
+* [3]	Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). "The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis," _Journal of Cleaner Production_ (239). (SCI/SSCI Q1, ABDC A) [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)*
 * [2]	杜松华, **徐嘉泓***, 罗子婵, 李东霞, 于秀丽. 金字塔底层可持续商业模式构建分析——基于粤东北地区的多案例研究[J]. 管理评论, 2018, 30(09): 292-304. (CSSCI；FMS管理科学高质量期刊T1级)[[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
   * 获2018年学术年会论文二等奖（广东省系统工程学会）
   * 获2015年全国优秀实践团队（团中央、全国学联、中青报）
@@ -67,14 +64,14 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 教育经历
-* 博士, 管理学, 中国科学技术大学, 2025 (预期夏季毕业)
-* 硕士, 管理学, 广东工业大学, 2021
-* 本科, 管理学, 广东工业大学, 2018
+* 2021-2025, 博士, 管理学, 中国科学技术大学
+* 2018-2021, 硕士, 管理学, 广东工业大学
+* 2014-2018, 本科, 管理学, 广东工业大学
 
-# 🏛️ 访学交换
-* 博士, CSC联合培养, 南洋理工大学, 2024
-* 硕士, 访学交流, 香港大学, 2018
-* 本科, 访学交流, 加州大学伯克利分校, 2017
+# 🏛️ 访学交换 
+* 2024-2025, 博士, 联合培养, 南洋理工大学
+* 2018-2018, 硕士, 访学交流, 香港大学
+* 2017-2017, 本科, 访学交流, 加州大学伯克利分校
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -91,6 +88,7 @@ redirect_from:
 
 ### 个人荣誉
 ---
+* 2025年获安徽省优秀毕业生（安徽省教育厅）
 * 2024年获博士研究生国家奖学金（教育部）
 * 2021年获广东省优秀研究生（广东省教育厅）
 * 2021年获广东省无偿献血奉献奖（广东省卫健委）
@@ -111,6 +109,7 @@ redirect_from:
   * Industrial Management and Data Systems
   * International Journal of Human-Computer Interaction
   * Sustainability Accounting Management and Policy Journal
+  * Current Psychology
   * Journal of Cleaner Production
   * Journal of Systems and Information Technology
   * Journal of Information and Knowledge Management
