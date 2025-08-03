@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，男，中国科学技术大学管理学博士，现就职于海南大学国际旅游与公共管理学院[[Link]](https://citpa.hainanu.edu.cn/info/1961/78531.htm)。在管理科学，特别是信息系统与电子商务领域，发表 10+ 篇国内外学术论文（一作/通讯/合作），其中包括ESI高被引论文1篇，知网高被引论文1篇，SSCI/SCI检索论文5篇，CSSCI检索论文2篇，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等信息系统领域国际会议。曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名奖，SIGHCI 2024最佳审稿人奖，以及教育部年度十大案例研究典型成果奖等。
-
-我当前的研究领域与兴趣包括：
+徐嘉泓，男，中国科学技术大学博士，现就职于海南大学国际旅游与公共管理学院[[Link]](https://citpa.hainanu.edu.cn/info/1961/78531.htm)。在管理科学，特别是信息系统与电子商务领域，发表 10+ 篇国内外学术论文（一作/通讯/合作），其中ESI高被引1篇，知网高被引1篇，SSCI/SCI检索5篇，CSSCI检索2篇，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等国际会议。曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名奖，SIGHCI 2024最佳审稿人奖，以及教育部年度十大案例研究典型成果奖等。我当前的研究兴趣包括：
 * 数字经济与平台运营
 * 数字营销与用户行为
 * 元宇宙与文旅营销(AR/VR)
 * 游戏化信息系统与可持续商业模式
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-eduwork'></span>
 
 # 🎓 教育和工作经历
 * 2025-至今, 海南大学, 国际旅游与公共管理学院
@@ -55,8 +53,8 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 ### 会议论文 
 ---
-* [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (SIGHCI 2024). [[链接]](https://aisel.aisnet.org/sighci2024/2)
-* [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of the 23rd Annual Pre-ICIS Workshop on HCI Research in MIS (SIGHCI 2024). [[链接]](https://aisel.aisnet.org/sighci2024/7) 
+* [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/2)
+* [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/7) 
 * [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
   * 获 **ICIS 2023最佳论文提名奖** (数字与移动商务领域) [[获奖公告]](https://aisel.aisnet.org/icis2023/awards.html)
 * [4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
@@ -94,11 +92,7 @@ redirect_from:
   * Information Technology and People
   * International Journal of Information Management
   * Technological Forecasting and Social Change
-  * Industrial Management and Data Systems
-  * International Journal of Human-Computer Interaction
-  * Sustainability Accounting Management and Policy Journal
-  * Current Psychology
-  * among others
+  * among others 
 
 * 会议审稿人
   * Academy of Management Annual Meeting (AOM)
@@ -106,6 +100,7 @@ redirect_from:
   * Pacific Asia Conference on Information Systems (PACIS)
   * Americas Conference on Information Systems (AMCIS)
   * Hawaii International Conference on System Sciences (HICSS)
-  * among others
+  * among others 
+
 
 
