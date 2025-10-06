@@ -28,7 +28,7 @@ redirect_from:
 # 🎉 最新动态
 * 关于AI赋能下的VR文旅营销工作论文，被中国系统工程学会信息系统工程专业委员会2025学术年会（CNAIS 2025）接受，受邀于2025年10月在北京出席CNAIS成立20周年特别会议，并口头汇报论文。
 
-</span>
+
 
 # 🎓 教育和工作经历
 * 2025-至今, 海南大学, 国际旅游与公共管理学院
@@ -110,6 +110,7 @@ redirect_from:
   * Americas Conference on Information Systems (AMCIS)
   * Hawaii International Conference on System Sciences (HICSS)
   * among others 
+
 
 
 
