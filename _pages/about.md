@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，中国科学技术大学博士，现就职于海南大学[[Link]](https://citpa.hainanu.edu.cn/info/1961/78531.htm)，主讲电子商务(国际贸易)专业相关课程。在管理科学，特别是信息系统与电子商务领域，发表 10+ 篇国内外学术论文（一作/通讯/合作），其中ESI高被引1篇，知网高被引1篇，SSCI/SCI检索5篇，CSSCI检索2篇，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等重要会议。其中，关键成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名奖，教育部年度十大“案例研究典型成果”等奖励。在学术服务方面，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI期刊，以及AOM, ICIS等多个重要会议的同行审稿人，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
+徐嘉泓，中国科学技术大学博士，现就职于海南大学，主讲电子商务(国际贸易)专业相关课程。在管理科学，特别是信息系统与电子商务领域，发表 10+ 篇国内外学术论文（一作/通讯/合作），其中ESI高被引1篇，知网高被引1篇，SSCI/SCI检索5篇，CSSCI检索2篇，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等重要会议。其中，关键成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名奖，教育部年度十大“案例研究典型成果”等奖励。在学术服务方面，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI期刊，以及AOM, ICIS等多个重要会议的同行审稿人，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
 
-我当前主要关注元宇宙中的智能人机协同管理（Human-AI Interaction@Metaverse, haɪ~Meta），研究兴趣包括：AI赋能数字经济，跨境电商平台运营，元宇宙与文旅营销(AR/VR)，智慧营销与用户行为，游戏化信息系统与可持续商业模式等。
+我当前主要关注元宇宙中的智能人机交互/协同管理（Human-AI Interaction@Metaverse, haɪ~Meta），研究兴趣包括：AI赋能数字经济，跨境电商平台运营，元宇宙与文旅营销(AR/VR)，智慧营销与用户行为，游戏化信息系统与可持续商业模式等。
 
 📫欢迎联系学术合作email: xujh@hainanu.edu.cn 
 
@@ -27,7 +27,6 @@ redirect_from:
 
 # 🎉 最新动态
 * 关于AI赋能下的VR文旅营销工作论文，被中国系统工程学会信息系统工程专业委员会2025学术年会（CNAIS 2025）接受，受邀于2025年10月在北京出席CNAIS成立20周年特别会议，并口头汇报论文。
-
 
 
 # 🎓 教育和工作经历
@@ -39,7 +38,6 @@ redirect_from:
 * 2014-2018, 广东工业大学, 管理学院, 物流管理, 学士
   * 其中2017, 美国加州大学伯克利分校, 访学
 
-  
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文成果
@@ -60,16 +58,16 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 ### 会议论文及汇报 
 ---
-* [8] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality Narrative ”. accepted as oral presentation paper at CNAIS 2025.  
+* [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality Narrative”. accepted as oral presentation paper at CNAIS 2025.
+* [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy". In Proceedings of 45th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
 * [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/2)
 * [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/7) 
-* [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
+* [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
   * 获 **ICIS 2023最佳论文提名奖** (数字与移动商务领域) [[获奖公告]](https://aisel.aisnet.org/icis2023/awards.html)
-* [4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of the 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
-* [3]	Lv, J.Y., **Xu, J.H.**, and Du, H.S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of the 25th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2021/187/)
-* [2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of the 24th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2020/233/)
+* [4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
+* [3]	Lv, J.Y., **Xu, J.H.**, and Du, H.S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of 25th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2021/187/)
+* [2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of 24th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2020/233/)
 * [1]	Zhan, B., Du, H.S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[链接]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
-
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -97,8 +95,8 @@ redirect_from:
 * 期刊审稿人
   * Information Systems Journal
   * IEEE Transactions on Engineering Management
-  * Internet Research
   * Information Technology and People
+  * Internet Research
   * Technological Forecasting and Social Change
   * International Journal of Information Management
   * among others 
@@ -110,9 +108,5 @@ redirect_from:
   * Americas Conference on Information Systems (AMCIS)
   * Hawaii International Conference on System Sciences (HICSS)
   * among others 
-
-
-
-
 
 
