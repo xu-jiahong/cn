@@ -31,6 +31,7 @@ author:
   email            : "xujh@hainanu.edu.cn" 
   researchgate     : "https://www.researchgate.net/profile/Jiahong-Xu-7"
   uri              : "https://citpa.hainanu.edu.cn/info/1961/78531.htm"
+  Offical          : "https://haic.hainanu.edu.cn/info/1925/9537.htm"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -161,5 +162,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
