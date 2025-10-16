@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，中国科学技术大学博士，现就职于海南大学，主讲电子商务(国际贸易)专业相关课程。在管理科学，特别是信息系统与电子商务领域，发表 10+ 篇国内外学术论文（一作/通讯/合作），其中ESI高被引1篇，知网高被引1篇，SSCI/SCI检索5篇，CSSCI检索2篇，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等重要会议。其中，关键成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名奖，教育部年度十大“案例研究典型成果”等奖励。在学术服务方面，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI期刊，以及AOM, ICIS等多个重要会议的同行审稿人，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
+徐嘉泓，中国科学技术大学博士（管理科学与工程），国家公派联合培养博士项目（南洋理工大学），现就职于海南大学。在管理科学，特别是信息系统与电子商务领域，发表 10+ 篇国内外学术论文（一作/通讯/合作），其中ESI高被引1篇，知网高被引1篇，SSCI/SCI检索5篇，CSSCI检索2篇，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等重要会议。其中，关键成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名奖，教育部年度十大“案例研究典型成果”等奖励。在学术服务方面，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI期刊，以及AOM, ICIS等国际会议的同行审稿人，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
 
 我当前主要关注元宇宙中的智能人机交互/协同管理（Human-AI Interaction@Metaverse, haɪ~Meta），研究兴趣包括：AI赋能数字经济，跨境电商平台运营，元宇宙与文旅营销(AR/VR)，智慧营销与用户行为，游戏化信息系统与可持续商业模式等。
 
@@ -30,7 +30,7 @@ redirect_from:
 
 
 # 🎓 教育和工作经历
-* 2025-至今, 海南大学, 国际旅游与公共管理学院
+* 2025-至今, 海南大学, 国际旅游与公共管理学院, 旅游管理系/电子商务系, 讲师
 * 2021-2025, 中国科学技术大学, 管理学院, 管理科学与工程, 博士
   * 其中2024-2025, 新加坡南洋理工大学, 南洋商学院, 联培
 * 2018-2021, 广东工业大学, 管理学院, 管理科学与工程, 硕士
@@ -75,19 +75,18 @@ redirect_from:
 
 ### 学术奖励
 ---
-* 2024年获第23届Pre-ICIS人机交互研讨会最佳审稿人（国际信息系统学会人机交互分会SIGHCI）
-* 2023年获第44届国际信息系统年会(ICIS 2023)最佳论文提名奖（国际信息系统学会AIS）
-* 2023年获2023年度十大“案例研究典型成果”（教育部学位中心、中国专业学位案例中心）
-* 2018年获广东省系统工程学会学术年会论文二等奖（广东省系统工程学会）
-* 2015年获“岭南物流与供应链理论创新奖”三等奖（广东省物流与供应链学会）
+* 教育部年度十大“案例研究典型成果”（教育部学位中心）
+* 第44届国际信息系统年会(ICIS 2023)最佳论文提名奖（国际信息系统学会）
+* 第23届Pre-ICIS人机交互研讨会(SIGHCI 2024)最佳审稿人（国际信息系统学会人机交互分会）
+* 广东省系统工程学会学术年会论文二等奖（广东省系统工程学会）
+* 岭南物流与供应链理论创新奖三等奖（广东省物流与供应链学会）
 
 ### 个人荣誉
 ---
-* 2025年获安徽省优秀毕业生（安徽省教育厅）
-* 2021年获广东省优秀研究生（广东省教育厅）
-* 2021年获广东省无偿献血奉献奖（广东省卫健委）
-* 2016/19/24年获本科/硕士/博士国家奖学金（教育部）
-* 2015年获全国优秀实践团队成员（团中央、全国学联）
+* 安徽省优秀毕业生（安徽省教育厅）
+* 广东省优秀研究生（广东省教育厅）
+* 本科/硕士/博士国家奖学金（教育部）
+* 全国优秀实践团队成员（团中央、全国学联）
 
 
 <span class='anchor' id='-services'></span>
@@ -108,5 +107,6 @@ redirect_from:
   * Americas Conference on Information Systems (AMCIS)
   * Hawaii International Conference on System Sciences (HICSS)
   * among others 
+
 
 
