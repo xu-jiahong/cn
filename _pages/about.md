@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，中国科学技术大学博士（管理科学与工程），国家公派联合培养博士项目（南洋理工大学），现就职于海南大学。在管理科学，特别是信息系统与电子商务领域，发表 10+ 篇国内外学术论文（一作/通讯/合作），其中ESI高被引1篇，知网高被引1篇，SSCI/SCI检索5篇，CSSCI检索2篇，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等重要会议。其中，关键成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名奖，教育部年度十大“案例研究典型成果”等奖励。在学术服务方面，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI期刊，以及AOM, ICIS等国际会议的同行审稿人，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
+徐嘉泓，中国科学技术大学博士（管理科学与工程），国家公派联合培养博士项目（南洋理工大学），现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。在管理科学，特别是信息系统与电子商务领域，发表 10+ 篇国内外学术论文（一作/通讯/合作），其中ESI高被引1篇，知网高被引1篇，SSCI/SCI检索5篇，CSSCI检索2篇，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等国内外重要期刊，以及ICIS、PACIS等重要会议。其中，关键成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名奖，教育部年度十大“案例研究典型成果”等奖励。在学术服务方面，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI期刊，以及AOM, ICIS等国际会议的同行审稿人，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
 
 我当前主要关注元宇宙中的智能人机交互/协同管理（Human-AI Interaction@Metaverse, haɪ~Meta），研究兴趣包括：AI赋能数字经济，跨境电商平台运营，元宇宙与文旅营销(AR/VR)，智慧营销与用户行为，游戏化信息系统与可持续商业模式等。
 
@@ -59,7 +59,7 @@ redirect_from:
 ### 会议论文及汇报 
 ---
 * [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality Narrative”. accepted as oral presentation paper at CNAIS 2025.
-* [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy". In Proceedings of 45th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
+* [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy". In Proceedings of 46th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
 * [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/2)
 * [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/7) 
 * [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
@@ -92,21 +92,19 @@ redirect_from:
 <span class='anchor' id='-services'></span>
 # 📖 学术服务
 * 期刊审稿人
-  * Information Systems Journal
-  * IEEE Transactions on Engineering Management
-  * Information Technology and People
-  * Internet Research
-  * Technological Forecasting and Social Change
-  * International Journal of Information Management
-  * among others 
+  * _Information Systems Journal (ISJ), Information Technology and People (ITP), Internet Research (IntR)_
+  * _IEEE Transactions on Engineering Management (IEEE TEM), Technological Forecasting and Social Change (TFSC)_
+  * _International Journal of Information Management (IJIM), International Journal of Human-Computer Interaction (IJHCI)_
+  * _Humanities and Social Sciences Communications (Nature HSSC)_
+  * among others SSCI/SCI/AHCI/FMS-listed/ABS-listed/ABDC-listed journals 
 
 * 会议审稿人
   * Academy of Management Annual Meeting (AOM)
   * International Conference on Information Systems (ICIS)
   * Pacific Asia Conference on Information Systems (PACIS)
-  * Americas Conference on Information Systems (AMCIS)
   * Hawaii International Conference on System Sciences (HICSS)
   * among others 
+
 
 
 
