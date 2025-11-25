@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，中国科学技术大学博士（管理科学与工程），国家公派联合培养博士项目（南洋理工大学），现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。在管理科学，特别是信息系统与电子商务领域，发表 10+ 篇学术论文（一作/通讯/合作），其中ESI高被引1篇，知网高被引1篇，SSCI/SCI检索5篇，CSSCI检索2篇，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引170+次，总下载量19,000+次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及ICIS、PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊，以及AOM, ICIS等国际会议审稿人，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
+徐嘉泓，中国科学技术大学博士(管理科学与工程)，新加坡南洋理工大学联合培养(CSC国家公派)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。在管理科学(信息系统与电子商务)领域，发表10+篇论文(一作/通讯/合作)，其中ESI高被引1篇，知网高被引1篇，SSCI/SCI检索5篇，CSSCI检索2篇，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引170+次，总下载量19,000+次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及ICIS、PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊，以及AOM, ICIS等国际会议审稿人，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
 
-我当前主要关注元宇宙中的智能人机交互/协同管理（Human-AI Interaction@Metaverse, haɪ~Meta），研究兴趣包括：AI赋能数字经济，跨境电商平台运营，元宇宙与文旅营销(AR/VR)，智慧营销与用户行为，游戏化信息系统与可持续商业模式等。
+我当前主要关注元宇宙中的智能人机交互/协同管理(Human-AI Interaction@Metaverse, haɪ~Meta)，研究兴趣包括：AI赋能数字经济，跨境电商平台运营，元宇宙与文旅营销(AR/VR)，智慧营销与用户行为，游戏化信息系统与可持续商业模式等。
 
 📫欢迎联系学术合作email: xujh@hainanu.edu.cn 
 
 <span class='anchor' id='-eduwork'></span>
 
 # 🎉 最新动态
-* 关于AI赋能下的VR文旅营销工作论文，被中国系统工程学会信息系统工程专业委员会2025学术年会（CNAIS 2025）接受，受邀于2025年10月在北京出席CNAIS成立20周年特别会议，并口头汇报论文。
+* 关于AI赋能下的VR文旅营销论文，被中国系统工程学会信息系统工程专业委员会2025学术年会（CNAIS 2025）接受，受邀于2025年10月在北京参加CNAIS 20周年会议，并口头汇报论文。
 
 
 # 🎓 教育和工作经历
@@ -69,6 +69,14 @@ redirect_from:
 * [2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of 24th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2020/233/)
 * [1]	Zhan, B., Du, H.S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[链接]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
 
+
+<span class='anchor' id='-teaching'></span>
+# 🎓 教学经验
+* 主讲, 《电子商务概论》, 英文课程, 电子商务(中外合作办学/本科), 海南大学亚利桑那州立大学国际学院(HAIC), 海南大学
+* 助教, 《管理科学理论与实践前沿讲座》, 中英双语, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
+* 助教, 《运营管理研究中的二手数据实证分析》, 英文课程, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
+
+
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
@@ -104,6 +112,7 @@ redirect_from:
   * Pacific Asia Conference on Information Systems (PACIS)
   * Hawaii International Conference on System Sciences (HICSS)
   * among others 
+
 
 
 
