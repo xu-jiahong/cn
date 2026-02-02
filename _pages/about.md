@@ -104,7 +104,10 @@ redirect_from:
   * _IEEE Transactions on Engineering Management (IEEE TEM), Technological Forecasting and Social Change (TFSC)_
   * _International Journal of Information Management (IJIM), International Journal of Human-Computer Interaction (IJHCI)_
   * _Humanities and Social Sciences Communications (Nature HSSC)_
-  * among others SSCI/SCI/A&HCI/FMS-listed/ABS-listed/ABDC-listed journals 
+  * among others SSCI/SCI/A&HCI/FMS/ABS-AGJ/ABDC journals 
+
+* 会议组委会
+  * China Summer Workshop on Information Management (CSWIM 2026) Publication Co-Chairs
 
 * 会议审稿人
   * Academy of Management Annual Meeting (AOM)
@@ -112,6 +115,7 @@ redirect_from:
   * Pacific Asia Conference on Information Systems (PACIS)
   * Hawaii International Conference on System Sciences (HICSS)
   * among others 
+
 
 
 
