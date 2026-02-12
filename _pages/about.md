@@ -44,7 +44,7 @@ redirect_from:
 
 ### 期刊论文
 ---
-* [7] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2024). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
+* [7] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2026). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_, 36(1): 132-153. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
 * [6]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_ (64). (SSCI Q1, ABS 2, FMS B, ABDC A+) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * 自2023年起连续3年入选获**前1%高被引论文** (科睿唯安Web of Science ESI数据库)
 * [5]	杜松华, **徐嘉泓***, 张德鹏, 杨晓光. 游戏化如何驱动电商用户绿色消费行为——基于蚂蚁森林的网络民族志研究[J]. 南开管理评论, 2022, 25(02): 191-204.  (CSSCI；FMS管理科学高质量期刊T1级；中国人文社科AMI-A类权威)  [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[新闻报道]](http://www.fter50.org.cn/research/1424.html) 
@@ -115,6 +115,7 @@ redirect_from:
   * Pacific Asia Conference on Information Systems (PACIS)
   * Hawaii International Conference on System Sciences (HICSS)
   * among others 
+
 
 
 
