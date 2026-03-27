@@ -26,7 +26,8 @@ redirect_from:
 <span class='anchor' id='-eduwork'></span>
 
 # 🎉 最新动态
-* :fire: 2026.3：2篇论文被管理学领域国际顶级会议第86届美国管理学会年会(AOM 2026)接受(主题：VR文旅营销、VR众筹)
+* 🔥2026.3：2篇论文被管理学领域国际顶级会议第86届美国管理学会年会(AOM 2026)接受(主题：VR文旅营销、VR众筹)
+* 2026.1：受邀担任第19届中国夏季信息管理研讨会(CSWIM 2026)出版共同主席(Publication Co-chair)
 * 2025.9：1篇论文被中国系统工程学会信息系统工程专业委员会2025学术年会(CNAIS 2025)接受(主题：AI赋能下的VR文旅营销)
 
 
@@ -58,8 +59,8 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 ### 会议论文及汇报 
 ---
-* :fire:[11] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," CTO Division Paper Accepted at AOM 2026.
-* :fire:[10] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," CTO Division Paper Accepted at AOM 2026.
+* 🔥[11] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," CTO Division Paper Accepted at AOM 2026.
+* 🔥[10] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," CTO Division Paper Accepted at AOM 2026.
 * [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality,” accepted as oral presentation paper at CNAIS 2025.
 * [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy," In Proceedings of 46th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
 * [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing,” In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/2)
