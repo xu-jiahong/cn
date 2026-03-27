@@ -77,6 +77,7 @@ redirect_from:
 <span class='anchor' id='-teaching'></span>
 # 🎓 教学经验
 * 主讲, 《电子商务概论》, 英文课程, 电子商务(中外合作办学/本科), 海南大学亚利桑那州立大学国际学院(HAIC), 海南大学
+  * 合作方：亚利桑那州立大学 雷鸟国际管理学院(Thunderbird School of Global Management)
 * 助教, 《管理科学理论与实践前沿讲座》, 中英双语, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 * 助教, 《运营管理研究中的二手数据实证分析》, 英文课程, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 
@@ -109,7 +110,7 @@ redirect_from:
   * among others SSCI/SCI/A&HCI/FMS/ABS-AGJ/ABDC journals 
 
 * 会议组委会
-  * 19th China Summer Workshop on Information Management (CSWIM 2026) 第19届中国夏季信息管理研讨会Publication Co-Chairs
+  * 19th China Summer Workshop on Information Management (CSWIM 2026) 第19届中国夏季信息管理研讨会 出版共同主席(Publication Co-Chairs)
 
 * 会议审稿人
   * Academy of Management Annual Meeting (AOM)
