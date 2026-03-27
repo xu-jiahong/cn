@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，中国科学技术大学博士(管理科学与工程)，新加坡南洋理工大学联合培养(CSC国家公派)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表10+篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及ICIS、PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，以及AOM, ICIS等国际会议审稿人，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
+徐嘉泓，中国科学技术大学博士(管理科学与工程)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM, ICIS, PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM, ICIS, PACIS等国际会议审稿人，CSWIM 2026 出版共同主席(Publication Co-chair)，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
 
 我当前主要关注元宇宙中的智能人机交互/协同管理(Human-AI Interaction@Metaverse, haɪ~Meta)，研究兴趣包括：AI赋能数字经济，跨境电商平台运营，元宇宙与文旅营销(AR/VR)，智慧营销与消费者共创行为，游戏化信息系统与可持续商业模式等。
 
@@ -26,7 +26,8 @@ redirect_from:
 <span class='anchor' id='-eduwork'></span>
 
 # 🎉 最新动态
-* 关于AI赋能下的VR文旅营销论文，被中国系统工程学会信息系统工程专业委员会2025学术年会（CNAIS 2025）接受，受邀于2025年10月在北京参加CNAIS 20周年会议，并口头汇报论文。
+* :fire: 2026.3：2篇论文被管理学领域国际顶级会议第86届美国管理学会年会(AOM 2026)接受(主题：VR文旅营销、VR众筹)
+* 2025.9：1篇论文被中国系统工程学会信息系统工程专业委员会2025学术年会(CNAIS 2025)接受(主题：AI赋能下的VR文旅营销)
 
 
 # 🎓 教育和工作经历
@@ -41,7 +42,7 @@ redirect_from:
 
 # 📝 论文成果
 
-### 期刊论文
+### 主要期刊论文
 ---
 * [7] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2026). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_, 36(1): 132-153. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
 * [6]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_, 64. (SSCI Q1, ABS 2, FMS B, ABDC A) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
@@ -57,13 +58,15 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 ### 会议论文及汇报 
 ---
-* [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality Narrative”. accepted as oral presentation paper at CNAIS 2025.
-* [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy". In Proceedings of 46th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
-* [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing”. In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/2)
-* [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment”. In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/7) 
-* [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement”. In Proceedings of 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
+* :fire:[11] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," CTO Division Paper Accepted at AOM 2026.
+* :fire:[10] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," CTO Division Paper Accepted at AOM 2026.
+* [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality,” accepted as oral presentation paper at CNAIS 2025.
+* [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy," In Proceedings of 46th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
+* [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing,” In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/2)
+* [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment,” In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/7) 
+* [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement,” In Proceedings of 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
   * 获 **ICIS 2023最佳论文提名奖** (数字与移动商务领域) [[获奖公告]](https://aisel.aisnet.org/icis2023/awards.html)
-* [4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences”. In Proceedings of 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
+* [4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences,” In Proceedings of 44th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
 * [3]	Lv, J.Y., **Xu, J.H.**, and Du, H.S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of 25th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2021/187/)
 * [2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of 24th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2020/233/)
 * [1]	Zhan, B., Du, H.S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[链接]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
