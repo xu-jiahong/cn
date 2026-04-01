@@ -35,7 +35,7 @@ redirect_from:
 * 2025-至今, 海南大学, 国际旅游与公共管理学院, 讲师/硕导
 * 2021-2025, 中国科学技术大学, 管理学院, 博士
   * 2024, 南洋理工大学, 南洋商学院, 联培
-* 2014-2021, 广东工业大学, 管理学院, 本/硕
+* 2014-2021, 广东工业大学, 管理学院, 本硕
   * 2018, 香港大学, 访学
   * 2017, 加州大学伯克利分校, 访学
 
@@ -77,7 +77,7 @@ redirect_from:
 <span class='anchor' id='-teaching'></span>
 # 🎓 教学经验
 * 主讲, 《电子商务概论》, 英文课程, 电子商务(中外合作办学/本科), 海南大学亚利桑那州立大学国际学院(HAIC), 海南大学
-  * 合作方：亚利桑那州立大学 雷鸟国际管理学院(Thunderbird School of Global Management)
+  * 合作方：亚利桑那州立大学 雷鸟国际管理学院(ASU, Thunderbird School of Global Management)
 * 助教, 《管理科学理论与实践前沿讲座》, 中英双语, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 * 助教, 《运营管理研究中的二手数据实证分析》, 英文课程, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 
@@ -91,12 +91,12 @@ redirect_from:
 * 教育部年度十大“案例研究典型成果”（教育部学位中心）
 * 第44届国际信息系统年会(ICIS 2023)最佳论文提名奖（国际信息系统学会）
 * 第23届国际信息系统年会附属人机交互分会研讨会(Pre-ICIS SIGHCI 2024)最佳审稿人（国际信息系统学会人机交互分会）
-* 广东省系统工程学会学术年会论文二等奖（广东省系统工程学会）
-* 岭南物流与供应链理论创新奖三等奖（广东省物流与供应链学会）
+* 广东省系统工程学会学术年会优秀论文奖（广东省系统工程学会）
+* 岭南物流与供应链理论创新奖（广东省物流与供应链学会）
 
 ### 个人荣誉
 ---
-* 全国优秀实践团队（团中央、全国学联）
+* 全国百强优秀实践团队（团中央、全国学联、中青报）
 * 本科/硕士/博士国家奖学金（教育部）
 * 安徽省优秀毕业生（安徽省教育厅）
 * 广东省优秀研究生（广东省教育厅）
@@ -107,10 +107,11 @@ redirect_from:
   * _Information Systems Journal (ISJ), Information Technology and People (ITP), Internet Research (IntR)_
   * _IEEE Transactions on Engineering Management (IEEE TEM), Technological Forecasting and Social Change (TFSC)_
   * _International Journal of Information Management (IJIM), International Journal of Human-Computer Interaction (IJHCI)_
+  * _Humanities & Social Sciences Communications (Springer Nature HSSC)_
   * among others SSCI/SCI/A&HCI/FMS/ABS-AGJ/ABDC journals 
 
 * 会议组委会
-  * 19th China Summer Workshop on Information Management (CSWIM 2026) 第19届中国夏季信息管理研讨会 出版共同主席(Publication Co-Chairs)
+  * 19th China Summer Workshop on Information Management (CSWIM 2026) 第19届中国夏季信息管理研讨会(Publication Co-Chairs)
 
 * 会议审稿人
   * Academy of Management Annual Meeting (AOM)
