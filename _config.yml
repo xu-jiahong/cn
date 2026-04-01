@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "徐嘉泓"
-description              : "海南大学 讲师"
+description              : "海南大学 讲师/硕导"
 repository               : "xu-jiahong/xu-jiahong.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "徐嘉泓"
   avatar           : "images/myphoto.png"
   bio              : "中国科学技术大学 博士"
-  location         : "中国 海南"
+  location         : "中国 海南 海口"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=B26bu8EAAAAJ"
