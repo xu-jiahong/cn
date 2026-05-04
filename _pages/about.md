@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，中国科学技术大学博士(管理科学与工程)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM, ICIS, PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM, ICIS, PACIS等国际会议审稿人，CSWIM 2026 出版共同主席(Publication Co-chair)，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
+徐嘉泓，中国科学技术大学博士(管理科学与工程专业/信息系统与电子商务方向)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM, ICIS, PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM, ICIS, PACIS等国际会议审稿人，CSWIM 2026 出版共同主席(Publication Co-chair)，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
 
 我当前主要关注元宇宙中的智能人机交互/协同管理(Human-AI Interaction@Metaverse, haɪ~Meta)，研究兴趣包括：AI赋能数字经济，跨境电商平台运营，元宇宙与文旅营销(AR/VR)，智慧营销与消费者共创行为，游戏化信息系统与可持续商业模式等。
 
@@ -50,12 +50,12 @@ redirect_from:
 * [6]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_, 64. (SSCI Q1, ABS 2, FMS B, ABDC A) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
   * 自2023年起连续3年入选获**前1%高被引论文** (科睿唯安Web of Science ESI数据库核心集被引100+次)
 * [5]	Du, H.S., **Xu, J.H.***, Tang, H., and Jiang, R.X. (2022). "Repurchase Intention in Online Knowledge Service: The Brand Awareness Perspective," _Journal of Computer Information Systems_, 62(1): 174-185. (SCI/SSCI Q2, ABS 2, ABDC A, CCF推荐期刊) [[DOI]](https://doi.org/10.1080/08874417.2020.1759159)
-* [4]	杜松华, **徐嘉泓***, 张德鹏, 杨晓光. 游戏化如何驱动电商用户绿色消费行为——基于蚂蚁森林的网络民族志研究[J]. 南开管理评论, 2022, 25(2): 191-204. (CSSCI；FMS管理科学高质量期刊T1级；中国人文社科AMI-A类权威)  [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[新闻报道]](http://www.fter50.org.cn/research/1424.html) 
+* [4]	杜松华, **徐嘉泓***, 张德鹏, 杨晓光. 游戏化如何驱动电商用户绿色消费行为——基于蚂蚁森林的网络民族志研究[J]. 南开管理评论, 2022, 25(2): 191-204. (CSSCI；FMS管理科学高质量期刊T1级；AMI中国人文社科A类权威; 国家自然科学基金委管理科学部A类期刊) [[DOI]](https://doi.org/10.3969/j.issn.1008-3448.2022.02.019) [[新闻报道]](http://www.fter50.org.cn/research/1424.html) 
   * 获2023年度十大“**“案例研究典型成果**” (教育部学位中心/中国专业学位案例中心) [[获奖公告]](https://case.cdgdc.edu.cn/content-detail/1816759368977223682) 
-  * 获CNKI**前1%高被引/高下载/高PCSI论文** 且为**前0.1%高下载论文** (下载量17000+) [[获奖报道]](http://institution.ustc.edu.cn/iom/zh_CN/article/688833/content/3579.htm)
+  * 获CNKI**前1%高被引/高下载/高PCSI论文** (被引量150+) 且为**前0.1%高下载论文** (下载量17000+) [[获奖报道]](http://institution.ustc.edu.cn/iom/zh_CN/article/688833/content/3579.htm)
 * [3]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_, 281. (SCI/SSCI Q1) [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
 * [2] Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). “The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis,” _Journal of Cleaner Production_, 239. (SCI/SSCI Q1) [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
-* [1]	杜松华, **徐嘉泓***, 罗子婵, 李东霞, 于秀丽. 金字塔底层可持续商业模式构建分析——基于粤东北地区的多案例研究[J]. 管理评论, 2018, 30(9): 292-304. (CSSCI；FMS管理科学高质量期刊T1级)[[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
+* [1]	杜松华, **徐嘉泓***, 罗子婵, 李东霞, 于秀丽. 金字塔底层可持续商业模式构建分析——基于粤东北地区的多案例研究[J]. 管理评论, 2018, 30(9): 292-304. (CSSCI；FMS管理科学高质量期刊T1级; 国家自然科学基金委管理科学部A类期刊)[[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
 
 <span class='anchor' id='-xshy'></span>
 ### 会议论文及汇报 
@@ -72,6 +72,14 @@ redirect_from:
 * [3]	Lv, J.Y., **Xu, J.H.**, and Du, H.S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of 25th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2021/187/)
 * [2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of 24th Pacific Asia Conference on Information Systems (PACIS). [[链接]](https://aisel.aisnet.org/pacis2020/233/)
 * [1]	Zhan, B., Du, H.S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[链接]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
+
+
+<span class='anchor' id='-funding'></span>
+# 📊 科研项目
+* 海南大学科研启动基金，虚拟现实技术影响游客旅游意愿的实证研究，在研，主持
+* 海南大学学科培育项目，海亚国际学院电子商务专业学科培育，在研，主持
+* 国家自然科学基金(重点项目: 72332007)，数字化供应链数据流通与风险管理理论研究, 在研, 参与
+* 国家自然科学基金(面上项目: 72072040)，目标框架理论视角下游戏化示能性对绿色消费行为的影响机制研究, 已结题, 参与
 
 
 <span class='anchor' id='-teaching'></span>
@@ -93,15 +101,13 @@ redirect_from:
 * 第23届国际信息系统年会附属人机交互分会研讨会(Pre-ICIS SIGHCI 2024)最佳审稿人（国际信息系统学会人机交互分会）
 * 广东省系统工程学会学术年会优秀论文奖（广东省系统工程学会）
 * 岭南物流与供应链理论创新奖（广东省物流与供应链学会）
-* 本/硕/博国家奖学金（教育部）
-* 安徽省优秀毕业生（省教育厅）
-* 广东省优秀研究生（省教育厅）
+* 安徽省优秀毕业生/广东省优秀研究生（省教育厅）
 
 ### 学科竞赛与奖励荣誉
 ---
 * 全国高校商业精英挑战赛（教育部A类竞赛），品牌策划竞赛（数字营销赛道）全国二等奖，指导教师
 * 全国大学生电子商务“创新、创意及创业”挑战赛（教育部A类竞赛），评委
-* 全国百强优秀实践团队（团中央、全国学联、中青报），团队成员
+* 全国百强暑期实践团队（团中央/全国学联/中青报），优秀团队成员
 
 
 <span class='anchor' id='-services'></span>
