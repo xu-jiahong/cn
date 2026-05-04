@@ -11,7 +11,13 @@ main:
 
   - title: "学术会议"
     url: "/cn/#-xshy"
-    
+
+  - title: "科研项目"
+    url: "/cn/#-funding"
+ 
+  - title: "教学经验"
+    url: "/cn/#-teaching"
+  
   - title: "荣誉奖项"
     url: "/cn/#-ryjx"
 
