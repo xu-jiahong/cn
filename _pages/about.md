@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，中国科学技术大学博士(管理科学与工程专业/信息系统与电子商务方向)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM, ICIS, PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM, ICIS, PACIS等国际会议审稿人，CSWIM 2026 出版共同主席(Publication Co-chair)，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
+徐嘉泓，中国科学技术大学博士(管理科学与工程/信息系统与电子商务)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM, ICIS, PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM, ICIS, PACIS等国际会议审稿人，CSWIM 2026 出版共同主席(Publication Co-chair)，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
 
-我当前主要关注元宇宙中的智能人机交互/协同管理(Human-AI Interaction@Metaverse, haɪ~Meta)，研究兴趣包括：AI赋能数字经济，跨境电商平台运营，元宇宙与文旅营销(AR/VR)，智慧营销与消费者共创行为，游戏化信息系统与可持续商业模式等。
+我当前主要关注元宇宙中的智能人机交互/协同管理(Human-AI Interaction@Metaverse, haɪ~Meta)，研究兴趣包括：AI赋能数字经济，元宇宙(AR/VR)与文旅营销，跨境电商平台运营，数智营销与消费者共创，游戏化与可持续商业模式等。
 
 📫欢迎联系学术合作email: xujh@hainanu.edu.cn 
 
@@ -32,7 +32,7 @@ redirect_from:
 
 
 # 🎓 教育和工作经历
-* 2025-至今, 海南大学, 国际旅游与公共管理学院, 讲师/硕导
+* 2025-至今, 海南大学, 国际旅游与公共管理学院(海亚国际学院), 讲师/硕导
 * 2021-2025, 中国科学技术大学, 管理学院, 博士
   * 2024, 南洋理工大学, 南洋商学院, 联培
 * 2014-2021, 广东工业大学, 管理学院, 本硕
@@ -55,7 +55,7 @@ redirect_from:
   * 获CNKI**前1%高被引/高下载/高PCSI论文** (被引量150+) 且为**前0.1%高下载论文** (下载量17000+) [[获奖报道]](http://institution.ustc.edu.cn/iom/zh_CN/article/688833/content/3579.htm)
 * [3]	Du, H.S., **Xu, J.H.***, Li, Z.Y., Liu, Y., and Chu, S. K. W. (2021). "Bibliometric Mapping on Sustainable Development at the Base-of-the-Pyramid," _Journal of Cleaner Production_, 281. (SCI/SSCI Q1) [[DOI]](https://doi.org/10.1016/j.jclepro.2020.125290)
 * [2] Du, H.S., Zhan, B.Q.*, **Xu, J.H.**, and Yang, X.G. (2019). “The Influencing Mechanism of Multi-Factors on Green Investments: A Hybrid Analysis,” _Journal of Cleaner Production_, 239. (SCI/SSCI Q1) [[DOI]](https://doi.org/10.1016/j.jclepro.2019.117977)
-* [1]	杜松华, **徐嘉泓***, 罗子婵, 李东霞, 于秀丽. 金字塔底层可持续商业模式构建分析——基于粤东北地区的多案例研究[J]. 管理评论, 2018, 30(9): 292-304. (CSSCI；FMS管理科学高质量期刊T1级; 国家自然科学基金委管理科学部A类期刊)[[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
+* [1]	杜松华, **徐嘉泓***, 罗子婵, 李东霞, 于秀丽. 金字塔底层可持续商业模式构建分析——基于粤东北地区的多案例研究[J]. 管理评论, 2018, 30(9): 292-304. (CSSCI；FMS管理科学高质量期刊T1级; 国家自然科学基金委管理科学部A类期刊) [[DOI]](https://doi.org/10.14120/j.cnki.cn11-5057/f.2018.09.027)
 
 <span class='anchor' id='-xshy'></span>
 ### 会议论文及汇报 
@@ -85,7 +85,6 @@ redirect_from:
 <span class='anchor' id='-teaching'></span>
 # 🎓 教学经验
 * 主讲, 《电子商务概论》, 英文课程, 电子商务(中外合作办学/本科), 海南大学亚利桑那州立大学国际学院(HAIC), 海南大学
-  * 合作方：亚利桑那州立大学 雷鸟国际管理学院(ASU, Thunderbird School of Global Management)
 * 助教, 《管理科学理论与实践前沿讲座》, 中英双语, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 * 助教, 《运营管理研究中的二手数据实证分析》, 英文课程, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 
@@ -98,14 +97,13 @@ redirect_from:
 ---
 * 教育部年度十大“案例研究典型成果”（教育部学位中心）
 * 第44届国际信息系统年会(ICIS 2023)最佳论文提名奖（国际信息系统学会）
-* 第23届国际信息系统年会附属人机交互分会研讨会(Pre-ICIS SIGHCI 2024)最佳审稿人（国际信息系统学会人机交互分会）
-* 广东省系统工程学会学术年会优秀论文奖（广东省系统工程学会）
-* 岭南物流与供应链理论创新奖（广东省物流与供应链学会）
-* 安徽省优秀毕业生/广东省优秀研究生（省教育厅）
+* 第23届国际信息系统年会人机交互分会研讨会(SIGHCI 2024)最佳审稿人
+* 全国/省无偿献血奉献奖（卫健委/红十字会）
+* 美丽中国行动者/全民义务植树（2017至今）
 
 ### 学科竞赛与奖励荣誉
 ---
-* 全国高校商业精英挑战赛（教育部A类竞赛），品牌策划竞赛（数字营销赛道）全国二等奖，指导教师
+* 全国高校商业精英挑战赛（教育部A类竞赛），品牌策划竞赛（数字营销）全国二等奖，指导教师
 * 全国大学生电子商务“创新、创意及创业”挑战赛（教育部A类竞赛），评委
 * 全国百强暑期实践团队（团中央/全国学联/中青报），优秀团队成员
 
