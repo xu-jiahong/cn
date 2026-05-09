@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，中国科学技术大学博士(管理科学与工程/信息系统与电子商务)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM, ICIS, PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM, ICIS, PACIS等国际会议审稿人，CSWIM 2026 出版共同主席(Publication Co-chair)，并获SIGHCI 2024 Best Reviewer最佳审稿人奖。
+徐嘉泓，中国科学技术大学博士(管理科学与工程/信息系统与电子商务)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM, ICIS, PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM, ICIS, PACIS等国际会议审稿人，CSWIM 2026 出版共同主席(Publication Co-chair)，并获SIGHCI 2024 Best Reviewer最佳审稿人奖、凡科优秀评审专家。
 
 我当前主要关注元宇宙中的智能人机交互/协同管理(Human-AI Interaction@Metaverse, haɪ~Meta)，研究兴趣包括：AI赋能数字经济，元宇宙(AR/VR)与文旅营销，跨境电商平台运营，数智营销与消费者共创，游戏化与可持续商业模式等。
 
@@ -32,7 +32,7 @@ redirect_from:
 
 
 # 🎓 教育和工作经历
-* 2025-至今, 海南大学, 国际旅游与公共管理学院(海亚国际学院), 讲师/硕导
+* 2025-至今, 海南大学, 国际旅游与公共管理学院(海亚国际学院), 讲师/硕士生导师
 * 2021-2025, 中国科学技术大学, 管理学院, 博士
   * 2024, 南洋理工大学, 南洋商学院, 联培
 * 2014-2021, 广东工业大学, 管理学院, 本硕
@@ -81,13 +81,11 @@ redirect_from:
 * 国家自然科学基金(重点项目: 72332007)，数字化供应链数据流通与风险管理理论研究, 在研, 参与
 * 国家自然科学基金(面上项目: 72072040)，目标框架理论视角下游戏化示能性对绿色消费行为的影响机制研究, 已结题, 参与
 
-
 <span class='anchor' id='-teaching'></span>
 # 🎓 教学经验
 * 主讲, 《电子商务概论》, 英文课程, 电子商务(中外合作办学/本科), 海南大学亚利桑那州立大学国际学院(HAIC), 海南大学
 * 助教, 《管理科学理论与实践前沿讲座》, 中英双语, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 * 助教, 《运营管理研究中的二手数据实证分析》, 英文课程, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
-
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -127,11 +125,4 @@ redirect_from:
   * Hawaii International Conference on System Sciences (HICSS)
   * among others 
 
-
-
-
-
-
-
-
-
+![](https://komarev.com/ghpvc/?username=xu-jiahong&color=177CB0&style=plastic&label=Profile+Views&base=200&abbreviated=true)
