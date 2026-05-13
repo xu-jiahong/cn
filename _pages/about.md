@@ -63,7 +63,7 @@ redirect_from:
 ---
 * 🔥[12] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026).
 * 🔥[11] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026).
-* 🔥[10] Gao, L.F., **Xu, J.H.**, Liu, H.F., Liu, H.Y. (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," Accepted by Doctoral Consortium at 25th Wuhan International Conference on E-business (WHICEB 2026).
+* 🔥[10] Gao, L.F., **Xu, J.H.**, Liu, H.F., Liu, H.Y. (2026) "How Virtual Reality Narrative Promotes Cultural and Creative Products Purchase," Accepted by Doctoral Consortium at 25th Wuhan International Conference on E-business (WHICEB 2026).
 * [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality,” accepted as oral presentation paper at CNAIS 2025.
 * [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy," In Proceedings of 46th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
 * [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing,” In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/2)
@@ -101,7 +101,7 @@ redirect_from:
 * 全国/省无偿献血奉献奖（卫健委/红十字会）
 * 美丽中国行动者/全民义务植树（2017至今）
 
-### 学科竞赛与奖励荣誉
+### 学科竞赛与学生获奖
 ---
 * 全国高校商业精英挑战赛（教育部A类竞赛），品牌策划竞赛（数字营销）全国二等奖，指导教师
 * 全国大学生电子商务“创新、创意及创业”挑战赛（教育部A类竞赛），评委
