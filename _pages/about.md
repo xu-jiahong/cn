@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，中国科学技术大学博士(管理科学与工程/信息系统与电子商务)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM, ICIS, PACIS等重要会议。代表性成果曾获国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，教育部年度十大“案例研究典型成果”等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM, ICIS, PACIS等国际会议审稿人，CSWIM 2026 出版共同主席(Publication Co-chair)，并获SIGHCI 2024 Best Reviewer最佳审稿人奖、凡科优秀评审专家。
+徐嘉泓，中国科学技术大学博士(管理科学与工程专业)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM, ICIS, PACIS等重要会议。代表成果曾获教育部年度十大“案例研究典型成果”奖，国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，AIS附属WHICEB 2026优秀论文奖等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM, ICIS, PACIS等国际会议审稿人，CSWIM 2026出版联席主席(Publication Co-chair)，并获SIGHCI 2024最佳审稿人奖、凡科优秀评审专家。
 
 我当前主要关注元宇宙中的智能人机交互/协同管理(Human-AI Interaction@Metaverse, haɪ~Meta)，研究兴趣包括：AI赋能数字经济，元宇宙(AR/VR)与文旅营销，跨境电商平台运营，数智营销与消费者共创，游戏化与可持续商业模式等。
 
@@ -26,7 +26,7 @@ redirect_from:
 <span class='anchor' id='-eduwork'></span>
 
 # 🎉 最新动态
-* 🔥2026.5：1篇论文被第25届武汉电子商务国际会议(WHICEB 2026)接受(主题：VR文旅营销)
+* 🔥2026.5：1篇论文被第25届武汉电子商务国际会议(WHICEB 2026)接受并获博士论坛论文二等奖(主题：VR文旅营销)
 * 🔥2026.3：2篇论文被管理学领域国际顶级会议第86届美国管理学会年会(AOM 2026)接受(主题：VR文旅营销、VR众筹)
 * 2026.1：受邀担任第19届中国夏季信息管理研讨会(CSWIM 2026)出版共同主席(Publication Co-chair)
 * 2025.9：1篇论文被中国系统工程学会信息系统工程专业委员会2025学术年会(CNAIS 2025)接受(主题：AI赋能NFT营销)
@@ -64,6 +64,7 @@ redirect_from:
 * 🔥[12] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026).
 * 🔥[11] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026).
 * 🔥[10] Gao, L.F., **Xu, J.H.**, Liu, H.F., Liu, H.Y. (2026) "How Virtual Reality Narrative Promotes Cultural and Creative Products Purchase," Accepted by Doctoral Consortium at 25th Wuhan International Conference on E-business (WHICEB 2026).
+  * 获 **博士论坛优秀论文二等奖** (TOP3)
 * [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality,” accepted as oral presentation paper at CNAIS 2025.
 * [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy," In Proceedings of 46th International Conference on Information Systems (ICIS). [[链接]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
 * [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing,” In Proceedings of SIGHCI 2024. [[链接]](https://aisel.aisnet.org/sighci2024/2)
@@ -86,6 +87,7 @@ redirect_from:
 <span class='anchor' id='-teaching'></span>
 # 🎓 教学经验
 * 主讲, 《电子商务概论》, 英文课程, 电子商务(中外合作办学/本科), 海南大学亚利桑那州立大学国际学院(HAIC), 海南大学
+* 主讲, 《产业认知实践》, 实践课程, 电子商务(中外合作办学/本科), 海南大学亚利桑那州立大学国际学院(HAIC), 海南大学
 * 助教, 《管理科学理论与实践前沿讲座》, 中英双语, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 * 助教, 《运营管理研究中的二手数据实证分析》, 英文课程, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 
@@ -97,8 +99,9 @@ redirect_from:
 ---
 * 教育部年度十大“案例研究典型成果”（教育部学位中心）
 * 第44届国际信息系统年会(ICIS 2023)最佳论文提名奖（国际信息系统学会）
-* 第23届国际信息系统年会人机交互分会研讨会(SIGHCI 2024)最佳审稿人
-* 全国/省无偿献血奉献奖（卫健委/红十字会）
+* 第25届武汉电子商务国际会议(WHICEB 2026)博士论坛优秀论文二等奖（国际信息系统学会附属会议）
+* 第23届国际信息系统年会人机交互分会研讨会(SIGHCI 2024)最佳审稿人（国际信息系统学会人机交互分会）
+* 全国/省无偿献血奉献奖（全国/省卫健委/红十字会）
 * 美丽中国行动者/全民义务植树（2017至今）
 
 ### 学科竞赛与学生获奖
