@@ -26,7 +26,7 @@ redirect_from:
 <span class='anchor' id='-eduwork'></span>
 
 # 🎉 最新动态
-* 🔥2026.6：受邀担任第19届中国夏季信息管理研讨会[[CSWIM 2026]](https://2026.cswimworkshop.org/) 分论坛筹备联合主席
+* 🔥2026.6：受邀担任第19届信息管理中国夏季研讨会[[CSWIM 2026]](https://2026.cswimworkshop.org/) 分论坛筹备联合主席
 * 🔥2026.5：1篇论文被第25届武汉电子商务国际会议(WHICEB 2026)接受并获博士论坛论文二等奖(主题：VR文旅营销) [[News]](https://mp.weixin.qq.com/s/lGAjJ25mfZtbnB41T7kvTw)
 * 2026.3：2篇论文被管理学领域国际顶级会议第86届美国管理学会年会(AOM 2026)接受(主题：VR文旅营销、VR众筹)
 * 2025.9：1篇论文被中国系统工程学会信息系统工程专业委员会2025学术年会(CNAIS 2025)接受(主题：AI赋能NFT营销)
