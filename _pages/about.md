@@ -61,8 +61,8 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 ### 会议论文及汇报 
 ---
-* 🔥[12] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026).
-* 🔥[11] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026).
+* 🔥[12] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026). [[DOI]](https://doi.org/10.5465/AMPROC.2026.16402abstract)
+* 🔥[11] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026). [[DOI]](https://doi.org/10.5465/AMPROC.2026.15265abstract)
 * 🔥[10] Gao, L.F., **Xu, J.H.**, Liu, H.F., Liu, H.Y. (2026) "How Virtual Reality Narrative Promotes Cultural and Creative Products Purchase," In the Doctoral Consortium at 25th Wuhan International Conference on E-business (WHICEB 2026).
   * 获 **博士论坛优秀论文二等奖** (TOP3) [[News]](https://mp.weixin.qq.com/s/lGAjJ25mfZtbnB41T7kvTw)
 * [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality,” accepted as oral presentation paper at CNAIS 2025.
@@ -87,7 +87,7 @@ redirect_from:
 # 🎓 教学经验
 * 主讲, 《电子商务概论》, 英文课程, 电子商务(中外合作办学/本科), 海南大学亚利桑那州立大学国际学院(HAIC), 海南大学
 * 主讲, 《产业认知实践》, 实践课程, 电子商务(中外合作办学/本科), 海南大学亚利桑那州立大学国际学院(HAIC), 海南大学
-* 主讲, 《研究方法》, 中文课程, 旅游管理(本科), 国际旅游与公共管理学院, 海南大学
+* 主讲, 《研究方法》, 中文课程, 工商管理类/旅游管理(本科), 国际旅游与公共管理学院, 海南大学
 * 助教, 《管理科学理论与实践前沿讲座》, 中英双语, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 * 助教, 《运营管理研究中的二手数据实证分析》, 英文课程, 管理科学与工程(硕/博), 管理学院, 中国科学技术大学
 
