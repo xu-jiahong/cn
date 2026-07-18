@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-徐嘉泓，中国科学技术大学博士(管理科学与工程专业)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM, ICIS, PACIS等重要会议。曾获教育部年度十大“案例研究典型成果”奖，国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，AIS附属国际会议WHICEB 2026优秀论文奖等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM, ICIS, PACIS等国际会议审稿人，CSWIM 2026 Session Arrangement Co-chairs，并获SIGHCI 2024 Best Reviewer、凡科优秀评审专家。
+徐嘉泓，中国科学技术大学博士(管理科学与工程专业)，CSC国家公派联合培养博士(新加坡南洋理工大学)，海南省高层次人才，现就职于海南大学[旅游管理系](https://citpa.hainanu.edu.cn/info/1961/78531.htm)/[电子商务系](https://haic.hainanu.edu.cn/info/1925/9537.htm)。长期扎根于管理科学(信息系统与电子商务)领域，在SSCI/SCI/CSSCI及其它国内外重要期刊/会议发表近20篇论文(其中ESI高被引1篇，知网高被引1篇)，并获得 <a href='https://scholar.google.com/citations?user=B26bu8EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=谷歌学术引用"></a>，[CNKI知网](https://au.cnki.net/author/personalInfo/000058299505)被引超200次，总下载量超20,000次。研究成果发表在 _Internet Research, International Journal of Information Management_, 《南开管理评论》和《管理评论》等重要期刊，以及AOM和ICIS等国际会议。曾获教育部年度十大“案例研究典型成果”，国际信息系统协会(AIS)旗舰会议ICIS 2023最佳论文提名，AIS附属国际会议WHICEB 2026优秀论文奖等。在学术服务上，曾担任 _Information Systems Journal, IEEE Transactions on Engineering Management_ 等10+本SSCI/SCI/A&HCI期刊审稿人，AOM和ICIS等国际会议审稿人，CSWIM 2026 Session Arrangement Co-chairs，并获SIGHCI 2024 Best Reviewer和凡科优秀评审专家等。
 
 我当前主要关注元宇宙中的智能人机交互/协同管理(Human-AI Interaction@Metaverse, haɪ~Meta)，研究兴趣包括：AI赋能数字经济，元宇宙(AR/VR)与文旅营销，跨境电商平台运营，数智营销与消费者共创，游戏化与可持续商业模式等。
 
@@ -25,11 +25,11 @@ redirect_from:
 
 <span class='anchor' id='-eduwork'></span>
 
-# 🎉 最新动态
+# 🚀 最新动态
+* 🔥2026.7：2篇论文被管理学国际顶级会议第86届美国管理学会年会(AOM 2026)接受并作分论坛报告(主题：VR文旅营销、VR众筹)
 * 🔥2026.6：受邀担任第19届信息管理中国夏季研讨会[[CSWIM 2026]](https://2026.cswimworkshop.org/) 分论坛筹备联合主席
-* 🔥2026.5：1篇论文被第25届武汉电子商务国际会议(WHICEB 2026)接受并获博士论坛论文二等奖(主题：VR文旅营销) [[News]](https://mp.weixin.qq.com/s/lGAjJ25mfZtbnB41T7kvTw)
-* 2026.3：2篇论文被管理学领域国际顶级会议第86届美国管理学会年会(AOM 2026)接受(主题：VR文旅营销、VR众筹)
-* 2025.9：1篇论文被中国系统工程学会信息系统工程专业委员会2025学术年会(CNAIS 2025)接受(主题：AI赋能NFT营销)
+* 2026.5：1篇论文被第25届武汉电子商务国际会议(WHICEB 2026)接受并获博士论坛优秀论文奖(主题：VR文旅营销) [[News]](https://mp.weixin.qq.com/s/lGAjJ25mfZtbnB41T7kvTw)
+* 2025.9：1篇论文被中国系统工程学会信息系统工程专业委员会2025学术年会(CNAIS 2025)接受并作分论坛报告(主题：AI赋能NFT营销)
 
 
 # 🎓 教育和工作经历
@@ -61,16 +61,14 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 ### 会议论文及汇报 
 ---
-* 🔥[12] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026). [[DOI]](https://doi.org/10.5465/AMPROC.2026.16402abstract)
-* 🔥[11] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," CTO Division Paper Accepted at 86th Annual Meeting of the Academy of Management (AOM 2026). [[DOI]](https://doi.org/10.5465/AMPROC.2026.15265abstract)
-* 🔥[10] Gao, L.F., **Xu, J.H.**, Liu, H.F., Liu, H.Y. (2026) "How Virtual Reality Narrative Promotes Cultural and Creative Products Purchase," In the Doctoral Consortium at 25th Wuhan International Conference on E-business (WHICEB 2026).
-  * 获 **博士论坛优秀论文二等奖** (TOP3) [[News]](https://mp.weixin.qq.com/s/lGAjJ25mfZtbnB41T7kvTw)
+* 🔥[12] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," Academy of Management Proceedings (The 86th Annual Meeting of the Academy of Management, AOM 2026). [[DOI]](https://doi.org/10.5465/AMPROC.2026.16402abstract)
+* 🔥[11] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," Academy of Management Proceedings (The 86th Annual Meeting of the Academy of Management, AOM 2026). [[DOI]](https://doi.org/10.5465/AMPROC.2026.15265abstract)
+* [10] Gao, L.F., **Xu, J.H.**, Liu, H.F., Liu, H.Y. (2026) "How Virtual Reality Narrative Promotes Cultural and Creative Products Purchase," In the Doctoral Consortium at 25th Wuhan International Conference on E-business (WHICEB 2026). 🎉获 **博士论坛优秀论文奖** (TOP3) [[News]](https://mp.weixin.qq.com/s/lGAjJ25mfZtbnB41T7kvTw)
 * [9] Gao, L.F., **Xu, J.H.**, Liu, H.F., and Liu, H.Y. (2025) “How Promoting Cultural Non-fungible Tokens (NFTs) Marketing: The Roles of Virtual Reality,” accepted as oral presentation paper at CNAIS 2025.
 * [8] Ma, M., Tan, R., Feng, J.; Huang, Q., and **Xu, J.** (2025) "When is AI Superior to Human? Unveiling the Effects of “Word-of-Machine” on Debt Collection Utilizing Different Types of Privacy," In Proceedings of 46th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2025/cyb_security/cyb_security/14)
 * [7] **Xu, J.H.**, Liu, H.F., Choi, B.C.F., Zhou, J.M., and Boh, W.F. (2024) “Seeing Is Believing or Is It Not? Expectancy Formulation and (Dis-)Confirmation with Virtual Reality Tours in Fanwork Merchandise Manufacturing,” In Proceedings of SIGHCI 2024. [[Link]](https://aisel.aisnet.org/sighci2024/2)
 * [6] **Xu, J.H.**, Wang, W., and Liu, H.F. (2024) “When Virtual Reality Supports Customer Acquisition: A Configurational Approach from the Perspective of Customer-Technology-Environment,” In Proceedings of SIGHCI 2024. [[Link]](https://aisel.aisnet.org/sighci2024/7) 
-* [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement,” In Proceedings of 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/)
-  * 获 **ICIS 2023最佳论文提名奖** (数字与移动商务领域) [[Award]](https://aisel.aisnet.org/icis2023/awards.html)
+* [5]	**Xu, J.H.**, Zhou, J.M., Liu, H.F., and Huang, Q. (2023) “How Online Extended Reality (XR) Promotes Consumer Offline Engagement,” In Proceedings of 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/emobilecomm/emobilecomm/2/) 🎉获**ICIS 2023最佳论文提名奖** [[Award]](https://aisel.aisnet.org/icis2023/awards.html)
 * [4]	**Xu, J.H.**, and Zhou, J.M. (2023) “Bridging Consumers’ Self-Brand Distance Through Virtual-Reality: Perspective from Presence Experiences,” In Proceedings of 44th International Conference on Information Systems (ICIS). [[Link]](https://aisel.aisnet.org/icis2023/techandfow/techandfow/10/)
 * [3]	Lv, J.Y., **Xu, J.H.**, and Du, H.S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of 25th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2021/187/)
 * [2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of 24th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2020/233/)
@@ -97,9 +95,9 @@ redirect_from:
 
 ### 学术奖励与个人荣誉
 ---
-* 教育部年度十大“案例研究典型成果”（教育部学位中心）
+* 教育部2023年度十大“案例研究典型成果”（教育部学位中心）
 * 第44届国际信息系统年会(ICIS 2023)最佳论文提名奖（国际信息系统学会）
-* 第25届武汉电子商务国际会议(WHICEB 2026)博士论坛优秀论文二等奖（国际信息系统学会附属会议）
+* 第25届武汉电子商务国际会议(WHICEB 2026)博士论坛优秀论文奖TOP3（国际信息系统学会附属会议）
 * 第23届国际信息系统年会人机交互分会研讨会(SIGHCI 2024)最佳审稿人（国际信息系统学会人机交互分会）
 * 全国/省无偿献血奉献奖（国家卫健委/红十字会）
 * 美丽中国行动者/全民义务植树（2017至今）
@@ -124,10 +122,9 @@ redirect_from:
   * 19th China Summer Workshop on Information Management [[CSWIM 2026]](https://2026.cswimworkshop.org/) Session Arrangement Co-Chairs
 
 * 会议审稿人
-  * Academy of Management Annual Meeting (AOM)
-  * International Conference on Information Systems (ICIS)
-  * Pacific Asia Conference on Information Systems (PACIS)
+  * Annual Meeting of the Academy of Management (AOM)
   * Hawaii International Conference on System Sciences (HICSS)
-  * among others 
+  * International Conference on Information Systems (ICIS), and pre-ICIS SIGHCI Workshop (SIGHCI)
+  * among others like AMCIS, CNAIS, CSWIM, ICEB, ICEC, WHICEB, and PACIS
 
 ![](https://komarev.com/ghpvc/?username=xu-jiahong&color=177CB0&style=plastic&label=Profile+Views&base=200&abbreviated=true)
