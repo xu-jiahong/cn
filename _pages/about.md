@@ -74,12 +74,26 @@ redirect_from:
 * [2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of 24th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2020/233/)
 * [1]	Zhan, B., Du, H.S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[Link]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
 
+### 工作论文与主要课题
+---
+* 增强现实(AR)与消费者行为决策机制
+* 虚拟现实(VR)与产业营销绩效
+* 虚拟现实(VR)与电商平台运营
+* 虚拟现实(VR)与消费者决策机制
+* 虚拟现实(VR)与文旅消费者行为
+* 虚拟现实(VR)与众筹平台运营
+* AI与文旅消费者行为
+* AI赋能文旅短视频
+* AI赋能游戏化
+* AI赋能多模态数据分析
+
 
 <span class='anchor' id='-funding'></span>
 # 📊 科研项目
-* 海南大学科研启动基金，虚拟现实技术影响游客旅游意愿的实证研究，在研，主持
-* 国家自然科学基金(重点项目: 72332007)，数字化供应链数据流通与风险管理理论研究, 在研, 参与
-* 国家自然科学基金(面上项目: 72072040)，目标框架理论视角下游戏化示能性对绿色消费行为的影响机制研究, 已结题, 参与
+* 国家自然科学基金(地区项目: 72662007), 项目负责人, 虚实融合环境中的消费者决策机制：基于写实与增强示能性的双路径视角, 在研
+* 海南大学研究基金(科研启动: KYQDSK2629)，项目负责人, 虚拟现实技术影响游客旅游意愿的实证研究, 在研
+* 国家自然科学基金(重点项目: 72332007)，项目参与人, 数字化供应链数据流通与风险管理理论研究, 在研
+* 国家自然科学基金(面上项目: 72072040)，项目参与人, 目标框架理论视角下游戏化示能性对绿色消费行为的影响机制研究, 已结题
 
 <span class='anchor' id='-teaching'></span>
 # 🎓 教学经验
@@ -104,9 +118,9 @@ redirect_from:
 
 ### 学科竞赛与学生获奖
 ---
-* 全国高校商业精英挑战赛（教育部A类竞赛），品牌策划竞赛（数字营销）全国二等奖，指导教师
-* 全国大学生电子商务“创新、创意及创业”挑战赛（教育部A类竞赛），评委
-* 全国百强暑期实践团队（团中央/全国学联/中青报），优秀团队成员
+* 全国高校商业精英挑战赛（教育部A类竞赛），品牌策划竞赛（数字营销）全国二等奖, 指导教师
+* 全国大学生电子商务“创新、创意及创业”挑战赛（教育部A类竞赛）, 评委, 校领队, 省领队
+* 全国百强暑期实践团队（团中央/全国学联/中青报）, 优秀团队成员
 
 
 <span class='anchor' id='-services'></span>
