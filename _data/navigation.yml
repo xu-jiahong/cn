@@ -11,7 +11,10 @@ main:
     
   - title: "研究成果"
     url: /cn/works
-
+    
+  - title: "会议论文"
+    url: /cn/works
+    
   - title: "科研项目"
     url: /cn/working
     
