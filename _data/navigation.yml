@@ -4,13 +4,13 @@ main:
     url: "/cn/#about-me"
 
   - title: "教育和工作经历"
-    url: "/cn/#-eduwork"
+    url: /cn/education
 
-  - title: "论文成果"
-    url: "/cn/#-lwzl"
-
-  - title: "学术会议"
-    url: "/cn/#-xshy"
+  - title: "研究成果"
+    url: "/cn/publications
+  
+  - title: "工作论文"
+    url: "/cn/#-working"
 
   - title: "科研项目"
     url: "/cn/#-funding"
