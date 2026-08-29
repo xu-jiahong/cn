@@ -3,20 +3,20 @@ main:
   - title: "个人简介"
     url: "/cn/#about-me"
 
-  - title: "教育和工作经历"
+  - title: "教育背景"
     url: /cn/experiences
 
+  - title: "工作与教学经验"
+    url: /cn/experiences
+    
   - title: "研究成果"
     url: /cn/works
-  
-  - title: "工作论文"
-    url: "/cn/#-working"
 
   - title: "科研项目"
-    url: "/cn/#-funding"
- 
-  - title: "教学经验"
-    url: "/cn/#-teaching"
+    url: /cn/working
+    
+  - title: "工作论文"
+    url: /cn/working
   
   - title: "荣誉奖项"
     url: /cn/awards
