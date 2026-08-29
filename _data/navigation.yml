@@ -19,7 +19,7 @@ main:
     url: "/cn/#-teaching"
   
   - title: "荣誉奖项"
-    url: "/cn/#-ryjx"
+    url: /cn/awards
 
   - title: "学术服务"
     url: /cn/services
