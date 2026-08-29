@@ -37,6 +37,3 @@ redirect_from:
 * 2026.5：1篇会议论文被第25届武汉电子商务国际会议(WHICEB 2026)接受并获博士论坛优秀论文奖(主题：VR文旅营销) [[News]](https://mp.weixin.qq.com/s/lGAjJ25mfZtbnB41T7kvTw)
 * 2025.9：1篇会议论文被中国系统工程学会信息系统工程专业委员会2025学术年会(CNAIS 2025)接受并作分论坛报告(主题：AI赋能NFT营销)
 
-
-
-![](https://komarev.com/ghpvc/?username=xu-jiahong&color=177CB0&style=plastic&label=Profile+Views&base=200&abbreviated=true)
