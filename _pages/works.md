@@ -4,10 +4,9 @@ title: ""
 author_profile: true
 --- 
 
-
 # 📝 论文成果
 
-### 主要期刊论文
+### 期刊论文
 ---
 * [7] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2026). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_, 36(1): 132-153. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
 * [6]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_, 64. (SSCI Q1, ABS 2, FMS B, ABDC A) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
@@ -35,19 +34,5 @@ author_profile: true
 * [3]	Lv, J.Y., **Xu, J.H.**, and Du, H.S. (2021) “How Gamification Affordances Drive Micro Public Welfare,” In Proceedings of 25th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2021/187/)
 * [2]	**Xu, J.H.**, Du, H.S., and Shen, K.N. (2020) “From players to citizens: Gamification in the e-commerce context,” In Proceedings of 24th Pacific Asia Conference on Information Systems (PACIS). [[Link]](https://aisel.aisnet.org/pacis2020/233/)
 * [1]	Zhan, B., Du, H.S. and **Xu, J.** (2019). “A Bibliometric Analysis of Social Media Research in Finance,” In Proceedings of Association for Information Science and Technology (ASIST) Asia-Pacific Regional Conference. [[Link]](https://asistdl.onlinelibrary.wiley.com/pb-assets/assets/23739231/ASIST-AP%202019%20Conference%20Proceedings-1606758940430.pdf)
-
-### 工作论文与主要课题
----
-* 增强现实(AR)与消费者行为决策机制
-* 虚拟现实(VR)与产业营销绩效
-* 虚拟现实(VR)与电商平台运营
-* 虚拟现实(VR)与消费者决策机制
-* 虚拟现实(VR)与文旅消费者行为
-* 虚拟现实(VR)与众筹平台运营
-* AI与文旅消费者行为
-* AI赋能文旅短视频
-* AI赋能游戏化
-* AI赋能多模态数据分析
-
 
 
