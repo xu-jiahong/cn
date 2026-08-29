@@ -7,7 +7,7 @@ main:
     url: /cn/education
 
   - title: "研究成果"
-    url: "/cn/works"
+    url: /cn/works
   
   - title: "工作论文"
     url: "/cn/#-working"
