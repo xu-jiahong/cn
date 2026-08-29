@@ -1,6 +1,6 @@
 ---
-permalink: publications
-title: ""
+permalink: works
+title: "works"
 author_profile: true
 --- 
 
