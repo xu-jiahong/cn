@@ -1,6 +1,6 @@
 ---
 permalink: works
-title: "works"
+title: ""
 author_profile: true
 --- 
 
