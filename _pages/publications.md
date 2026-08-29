@@ -2,6 +2,9 @@
 permalink: works
 title: ""
 author_profile: true
+redirect_from: 
+  - /works
+  - /works.html
 --- 
 
 
