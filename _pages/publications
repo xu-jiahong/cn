@@ -1,10 +1,11 @@
 ---
-layout: default
-title: publications
-type: pages
-menu: true
-order: 2
-permalink: /publications
+permalink: publications
+title: "publications"
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /publications
+  - /publications.html
 ---
 
 
