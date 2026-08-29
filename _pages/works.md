@@ -1,5 +1,5 @@
 ---
-permalink: /cn/works
+permalink: works
 title: ""
 author_profile: true
 --- 
