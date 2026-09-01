@@ -8,6 +8,7 @@ author_profile: true
 
 ### 国际期刊论文
 ---
+* [6] **Xu, J.H.**, Liu, H.Y.,* and Zhou, J.M. (2026). “How Virtual Reality Presence Experiences Engage Online Visitors in Actual Destination: A Dual-path Model,” _Journal of Business Research_, in press. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) 
 * [5] **Xu, J.H.**, Liu, H.F., and Zhou, J.M.* (2026). “How Does Augmented Reality Enhance Brand Equity? The Mediating Role of the Vividness Experience,” _Internet Research_, 36(1): 132-153. (SCI/SSCI Q1, ABS 3, FMS B, ABDC A) [[DOI]](https://doi.org/10.1108/INTR-09-2023-0738)
   * 🔍被信息系统领域UTD期刊(_Information Systems Research_)及ABS4期刊(_Information Systems Journal_)引用
 * [4]	**Xu, J.H**., Du, H.S.,* Shen, K.N., and Zhang, D.P.* (2022). "How Gamification Drives Consumer Citizenship Behaviour: The Role of Perceived Gamification Affordances," _International Journal of Information Management_, 64. (SSCI Q1, ABS 2, FMS B, ABDC A) [[DOI]](https://doi.org/10.1016/j.ijinfomgt.2022.102477)
