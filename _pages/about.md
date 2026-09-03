@@ -31,9 +31,10 @@ redirect_from:
 
 <span class='anchor' id='-eduwork'></span>
 # 🚀 最新动态
-* 🔥2026.9：1篇论文被 _Journal of Business Research_ (ABS 3, IF=11.1) 接受(主题：VR虚拟目的地营销与在线游客行为决策)
+* 🔥2026.9：1篇论文被 _Journal of Business Research_ (ABS 3, IF=11.1)接受(主题: VR虚拟目的地与在线游客实地访问行为) [[DOI]](https://doi.org/10.1016/j.jbusres.2026.116517)
+  * 🎉[[Free access before October 23, 2026]](https://authors.elsevier.com/c/1njCwXj-jrKCN)🔑点击左边链接可免费获取，欢迎转发+引用
 * 🔥2026.8：1篇会议论文被2026湾区AI创新联盟年会GBA AI Alliance Conference [[GAAC 2026]](https://www.paperfox.ai/conference/gaac2026) 接受(主题：AI赋能文旅经济)
-* 🔥2026.7：2篇会议论文被管理学国际顶级会议第86届美国管理学会年会(AOM 2026)接受并作分论坛报告(主题：[[VR文旅营销]](https://doi.org/10.5465/AMPROC.2026.16402abstract)、[[VR众筹]](https://doi.org/10.5465/AMPROC.2026.15265abstract))
+* 2026.7：2篇会议论文被管理学国际顶级会议第86届美国管理学会年会(AOM 2026)接受并作分论坛报告(主题：[[VR文旅营销]](https://doi.org/10.5465/AMPROC.2026.16402abstract)、[[VR众筹]](https://doi.org/10.5465/AMPROC.2026.15265abstract))
 * 2026.6：受邀担任第19届信息管理中国夏季研讨会 [[CSWIM 2026]](https://2026.cswimworkshop.org/) 分论坛筹备联合主席
 * 2026.5：1篇会议论文被第25届武汉电子商务国际会议(WHICEB 2026)接受并获博士论坛优秀论文奖(主题：VR文旅营销) [[News]](https://mp.weixin.qq.com/s/lGAjJ25mfZtbnB41T7kvTw)
 * 2025.9：1篇会议论文被中国系统工程学会信息系统工程专业委员会2025学术年会(CNAIS 2025)接受并作分论坛报告(主题：AI赋能NFT营销)
