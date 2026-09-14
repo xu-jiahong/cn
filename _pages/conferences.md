@@ -7,6 +7,8 @@ author_profile: true
 
 # 📝 会议论文及汇报 
 ---
+* [13] **Xu, J.H.,** Gao, L.F., Liu, H.F., Zhou, J.M. (2026) "How AI-enabled Immersive Narrative Promotes Cultural Marketing: Cultural Identity Perspective," GBA AI Alliance Conference (GAAC 2026). [[Link]](https://www.paperfox.ai/conference/gaac2026/program)
+  * 🎉获 **GAAC 2026最佳论文奖(Best Paper Awards)** 
 * [12] Gao, L.F., Liu, H.F., Liu, H.Y., **Xu, J.H.** (2026) "How Virtual Reality Affects Cultural Souvenirs Purchase: A Narrative Perspective," Academy of Management Proceedings (The 86th Annual Meeting of the Academy of Management, AOM 2026). [[DOI]](https://doi.org/10.5465/AMPROC.2026.16402abstract)
 * [11] Tu, J.G., Liu, H.F., **Xu, J.H.**, Yao, X.Y. (2026) "Why Virtual Reality Projects Fail: Disclosure Paradox in Experiential Technology Crowdfunding," Academy of Management Proceedings (The 86th Annual Meeting of the Academy of Management, AOM 2026). [[DOI]](https://doi.org/10.5465/AMPROC.2026.15265abstract)
 * [10] Gao, L.F., **Xu, J.H.**, Liu, H.F., Liu, H.Y. (2026) "How Virtual Reality Narrative Promotes Cultural and Creative Products Purchase," In the Doctoral Consortium at 25th Wuhan International Conference on E-business (WHICEB 2026).
