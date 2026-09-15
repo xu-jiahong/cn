@@ -11,6 +11,7 @@ author_profile: true
 ---
 * 教育部2023年度十大“案例研究典型成果”（教育部学位中心）[[Award]](https://case.cdgdc.edu.cn/content-detail/1816759368977223682) 
 * 第44届国际信息系统年会(ICIS 2023)最佳论文提名奖（国际信息系统学会）[[Award]](https://aisel.aisnet.org/icis2023/awards.html)
+* 第1届湾区AI创新联盟年会(GAAC 2026)最佳论文奖（中国信息经济学会指导/香港中文大学深圳承办）
 * 第25届武汉电子商务国际会议(WHICEB 2026)博士论坛优秀论文奖TOP3（国际信息系统学会附属会议）[[News]](https://mp.weixin.qq.com/s/lGAjJ25mfZtbnB41T7kvTw)
 * 第23届国际信息系统年会人机交互分会研讨会(SIGHCI 2024)最佳审稿人（国际信息系统学会人机交互分会）
 * 凡科优秀评审专家
