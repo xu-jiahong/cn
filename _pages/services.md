@@ -5,7 +5,7 @@ author_profile: true
 --- 
 
 # 📖 学术服务
-* 期刊编辑服务/Journal Editorial Role
+* 期刊编辑服务/Journal Editorial Board
   * Industrial Management & Data Systems (Early Career Review Board Member)
 
 * 期刊审稿服务/Journal Ad-hoc Reviewer
