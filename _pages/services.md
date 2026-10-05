@@ -5,10 +5,10 @@ author_profile: true
 --- 
 
 # 📖 学术服务
-* 期刊编辑服务/Journal Editorial Board
+* 期刊编委会/Journal Editorial Board
   * Industrial Management & Data Systems (Early Career Review Board Member)
 
-* 期刊审稿服务/Journal Ad-hoc Reviewer
+* 期刊审稿人/Journal Ad-hoc Reviewer
   * Information Systems Journal (ISJ)
   * IEEE Transactions on Engineering Management (IEEE TEM)
   * Information Technology & People (ITP)
@@ -27,6 +27,8 @@ author_profile: true
   * Hawaii International Conference on System Sciences (HICSS)
   * among others like AMCIS, CNAIS, CSWIM, ICEB, ICEC, WHICEB, and PACIS
 
+* 海南省科技厅评审专家
+  
 * 研究生学位论文评审专家（凡科平台）
 
 
